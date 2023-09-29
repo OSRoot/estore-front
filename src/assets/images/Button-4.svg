@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="30" viewBox="0 0 121 30">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        stroke: rgba(114,124,142,0.3);
+      }
+
+      .cls-4 {
+        fill: #727c8e;
+        font-size: 12px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="121" height="30"/>
+    </clipPath>
+  </defs>
+  <g id="Button" class="cls-2">
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-3">
+      <rect class="cls-5" width="121" height="30" rx="15"/>
+      <rect class="cls-1" x="0.5" y="0.5" width="120" height="29" rx="14.5"/>
+    </g>
+    <text id="EDIT_PROFILE" data-name="EDIT PROFILE" class="cls-4" transform="translate(60.456 19.342)"><tspan x="-42.025" y="0">EDIT PROFILE</tspan></text>
+  </g>
+</svg>

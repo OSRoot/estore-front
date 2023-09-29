@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="183" height="40" viewBox="0 0 183 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #515c6f;
+        font-size: 30px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Page_Title" data-name="Page Title" class="cls-1" transform="translate(0 32)"><tspan x="0" y="0">Notifications</tspan></text>
+</svg>

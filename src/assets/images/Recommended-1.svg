@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="330" height="96" viewBox="0 0 330 96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #515c6f;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        font-size: 12px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-2, .cls-3 {
+        letter-spacing: 0.07em;
+      }
+
+      .cls-2 {
+        opacity: 0.5;
+      }
+
+      .cls-3 {
+        fill: #ff6969;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-12 {
+        clip-path: url(#clip-path-7);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="123" height="28"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="78" height="28"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" width="83" height="28"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect class="cls-1" width="87" height="28"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect class="cls-1" width="69" height="28"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect class="cls-1" width="56" height="28"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect class="cls-1" width="88" height="28"/>
+    </clipPath>
+  </defs>
+  <g id="Recommended" transform="translate(0 4)">
+    <text id="title" class="cls-2" transform="translate(0 9)"><tspan x="0" y="0">RECOMMENDED</tspan></text>
+    <text id="button" class="cls-3" transform="translate(330 9)"><tspan x="-52.29" y="0">REFRESH</tspan></text>
+    <g id="tag" class="cls-4" transform="translate(0 64)">
+      <g id="tag-2" data-name="tag" transform="translate(-25 -200)">
+        <rect id="Rectangle_34" data-name="Rectangle 34" class="cls-5" width="123" height="28" rx="5" transform="translate(25 200)"/>
+        <text id="Sports_Accessories" data-name="Sports Accessories" class="cls-6" transform="translate(35 218)"><tspan x="0" y="0">Sports Accessories</tspan></text>
+      </g>
+    </g>
+    <g id="tag-3" data-name="tag" class="cls-7" transform="translate(133 64)">
+      <g id="tag-4" data-name="tag" transform="translate(-25 -200)">
+        <rect id="Rectangle_34-2" data-name="Rectangle 34" class="cls-5" width="78" height="28" rx="5" transform="translate(25 200)"/>
+        <text id="Yoga_Pants" data-name="Yoga Pants" class="cls-6" transform="translate(35 218)"><tspan x="0" y="0">Yoga Pants</tspan></text>
+      </g>
+    </g>
+    <g id="tag-5" data-name="tag" class="cls-8" transform="translate(221 64)">
+      <g id="tag-6" data-name="tag" transform="translate(-25 -200)">
+        <rect id="Rectangle_34-3" data-name="Rectangle 34" class="cls-5" width="83" height="28" rx="5" transform="translate(25 200)"/>
+        <text id="Eye_Shadow" data-name="Eye Shadow" class="cls-6" transform="translate(35 218)"><tspan x="0" y="0">Eye Shadow</tspan></text>
+      </g>
+    </g>
+    <g id="tag-7" data-name="tag" class="cls-9" transform="translate(243 26)">
+      <g id="tag-8" data-name="tag" transform="translate(-25 -200)">
+        <rect id="Rectangle_34-4" data-name="Rectangle 34" class="cls-5" width="87" height="28" rx="5" transform="translate(25 200)"/>
+        <text id="Accessories" class="cls-6" transform="translate(37 218)"><tspan x="0" y="0">Accessories</tspan></text>
+      </g>
+    </g>
+    <g id="tag-9" data-name="tag" class="cls-10" transform="translate(98 26)">
+      <g id="tag-10" data-name="tag" transform="translate(-25 -200)">
+        <rect id="Rectangle_34-5" data-name="Rectangle 34" class="cls-5" width="69" height="28" rx="5" transform="translate(25 200)"/>
+        <text id="Mini_Skirt" data-name="Mini Skirt" class="cls-6" transform="translate(35 218)"><tspan x="0" y="0">Mini Skirt</tspan></text>
+      </g>
+    </g>
+    <g id="tag-11" data-name="tag" class="cls-11" transform="translate(177 26)">
+      <g id="tag-12" data-name="tag" transform="translate(-25 -200)">
+        <rect id="Rectangle_34-6" data-name="Rectangle 34" class="cls-5" width="56" height="28" rx="5" transform="translate(25 200)"/>
+        <text id="Jacket" class="cls-6" transform="translate(35 218)"><tspan x="0" y="0">Jacket</tspan></text>
+      </g>
+    </g>
+    <g id="Tag-13" data-name="Tag" class="cls-12" transform="translate(0 26)">
+      <rect id="Rectangle_34-7" data-name="Rectangle 34" class="cls-5" width="88" height="28" rx="5"/>
+      <text id="Denim_Jeans" data-name="Denim Jeans" class="cls-6" transform="translate(10 18)"><tspan x="0" y="0">Denim Jeans</tspan></text>
+    </g>
+  </g>
+</svg>

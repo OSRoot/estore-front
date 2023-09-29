@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="30" viewBox="0 0 121 30">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: rgba(114,124,142,0.3);
+      }
+
+      .cls-2 {
+        fill: #727c8e;
+        font-size: 12px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Button" transform="translate(-138 -400)">
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-1" transform="translate(138 400)">
+      <rect class="cls-3" width="121" height="30" rx="15"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="120" height="29" rx="14.5"/>
+    </g>
+    <text id="EDIT_PROFILE" data-name="EDIT PROFILE" class="cls-2" transform="translate(198.456 419.342)"><tspan x="-42.025" y="0">EDIT PROFILE</tspan></text>
+  </g>
+</svg>

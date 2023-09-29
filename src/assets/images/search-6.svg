@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="35" viewBox="0 0 330 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #727c8e;
+        opacity: 0.1;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #515c6f;
+        opacity: 0.4;
+      }
+
+      .cls-2 {
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <g id="search" transform="translate(-25 -116)">
+    <rect id="Rectangle_21" data-name="Rectangle 21" class="cls-1" width="330" height="35" rx="17.5" transform="translate(25 116)"/>
+    <g id="Group_54" data-name="Group 54" transform="translate(7)">
+      <g id="Group_39" data-name="Group 39" transform="translate(9)">
+        <text id="Search_Something" data-name="Search Something" class="cls-2" transform="translate(122 138)"><tspan x="0" y="0">Search Something</tspan></text>
+        <path id="Search-2" data-name="Search" class="cls-3" d="M14.845,14.1l-2.357-2.357a4.765,4.765,0,1,0-.749.749L14.1,14.845a.529.529,0,1,0,.749-.749Zm-6.08-1.626a3.706,3.706,0,1,1,3.706-3.706A3.706,3.706,0,0,1,8.765,12.471Z" transform="translate(100 124)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.998" height="5.002" viewBox="0 0 23.998 5.002">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #727c8e;
+      }
+
+      .cls-2 {
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <g id="Paging_Indicators" data-name="Paging Indicators" transform="translate(-170 -507)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" class="cls-1" cx="2.501" cy="2.501" r="2.501" transform="translate(179.498 507)"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-2" cx="2.501" cy="2.501" r="2.501" transform="translate(188.996 507)"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-2" cx="2.501" cy="2.501" r="2.501" transform="translate(170 507)"/>
+  </g>
+</svg>

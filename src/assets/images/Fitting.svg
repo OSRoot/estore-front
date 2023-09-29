@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69" height="36" viewBox="0 0 69 36">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #515c6f;
+      }
+
+      .cls-1 {
+        font-size: 12px;
+        font-family: SegoeUI, Segoe UI;
+        letter-spacing: 0.07em;
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g id="Fitting" transform="translate(-42 -419)">
+    <text id="Page_Title" data-name="Page Title" class="cls-1" transform="translate(111 432)"><tspan x="-47.304" y="0">FITTING</tspan></text>
+    <text id="True_To_Size" data-name="True To Size" class="cls-2" transform="translate(111 451)"><tspan x="-68.366" y="0">True To Size</tspan></text>
+  </g>
+</svg>

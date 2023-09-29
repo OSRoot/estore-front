@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216.631" height="338" viewBox="0 0 216.631 338">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #727c8e;
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-3 {
+        fill: #ff6969;
+        text-decoration: underline;
+      }
+    </style>
+  </defs>
+  <g id="message_bubble" data-name="message bubble" transform="translate(-8.369 -193)">
+    <path id="base" class="cls-1" d="M-2757.481,338H-2790s10.163-2.595,11.8-17.384a20.2,20.2,0,0,1-.17-2.616V20a20,20,0,0,1,20-20h165a20,20,0,0,1,20,20V318a20,20,0,0,1-20,20Z" transform="translate(2798.369 193)"/>
+    <text id="Dear_customer_your_order_has_been_shipped._Please_see_below_for_the_tracking_number._UH2983948935B_Your_parcel_should_arrive_between_10_-_20_days._If_you_have_any_questions_please_contact_us_and_we_will_get_back_to_you_at_our_earliest._Thank_you_for" data-name="Dear customer, your order has been shipped.
+Please see below for the tracking number.
+
+UH2983948935B
+
+Your parcel should arrive between 10 - 20 days.
+
+If you have any questions, please contact us and we will get back to you at our earliest. 
+
+Thank you for" class="cls-2" transform="translate(37 210)"><tspan x="0" y="16">Dear customer, your </tspan><tspan x="0" y="36">order has been shipped.</tspan><tspan x="0" y="56">Please see below for the </tspan><tspan x="0" y="76">tracking number.</tspan><tspan x="0" y="96"></tspan><tspan class="cls-3"><tspan x="0" y="116">UH2983948935B</tspan></tspan><tspan x="0" y="136"></tspan><tspan x="0" y="156">Your parcel should arrive </tspan><tspan x="0" y="176">between 10 - 20 days.</tspan><tspan x="0" y="196"></tspan><tspan x="0" y="216">If you have any </tspan><tspan x="0" y="236">questions, please contact </tspan><tspan x="0" y="256">us and we will get back </tspan><tspan x="0" y="276">to you at our earliest. </tspan><tspan x="0" y="296"></tspan></text>
+  </g>
+</svg>

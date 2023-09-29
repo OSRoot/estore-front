@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="335" height="153" viewBox="0 0 335 153">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-12, .cls-3 {
+        stroke: #727c8e;
+      }
+
+      .cls-3 {
+        opacity: 0.15;
+      }
+
+      .cls-11, .cls-12, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: url(#pattern);
+      }
+
+      .cls-13, .cls-14, .cls-6, .cls-7 {
+        fill: #515c6f;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-size: 15px;
+      }
+
+      .cls-14, .cls-6, .cls-8, .cls-9 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-7 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-8 {
+        fill: #ff6969;
+      }
+
+      .cls-10, .cls-9 {
+        fill: #727c8e;
+      }
+
+      .cls-10 {
+        opacity: 0.2;
+      }
+
+      .cls-13 {
+        font-size: 14px;
+        font-family: SegoeUI-LightItalic, Segoe UI;
+        font-weight: 300;
+        font-style: italic;
+        opacity: 0.6;
+      }
+
+      .cls-14 {
+        font-size: 12px;
+        letter-spacing: 0.07em;
+        opacity: 0.5;
+      }
+
+      .cls-15, .cls-16 {
+        stroke: none;
+      }
+
+      .cls-16 {
+        fill: #727c8e;
+      }
+
+      .cls-17 {
+        filter: url(#Rectangle_3);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="335" height="123"/>
+    </clipPath>
+    <filter id="Rectangle_3" x="-17.5" y="15.5" width="114" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 87 87">
+      <image width="87" height="87" xlink:href="items-image.png"/>
+    </pattern>
+  </defs>
+  <g id="items" transform="translate(-20 -367)">
+    <g id="Repeat_Grid_24" data-name="Repeat Grid 24" class="cls-2" transform="translate(20 397)">
+      <g transform="translate(-20 -397)">
+        <line id="Line_17" data-name="Line 17" class="cls-3" x2="246" transform="translate(109 476)"/>
+        <line id="Line_18" data-name="Line 18" class="cls-3" x2="335" transform="translate(20 520)"/>
+        <g id="Group_37" data-name="Group 37" transform="translate(0 1)">
+          <g id="Group_13" data-name="Group 13" transform="translate(0 -110)">
+            <g class="cls-17" transform="matrix(1, 0, 0, 1, 20, 476)">
+              <rect id="Rectangle_3-2" data-name="Rectangle 3" class="cls-4" width="69" height="69" rx="34.5" transform="translate(5 30)"/>
+            </g>
+            <rect id="scarf_PNG48" class="cls-5" width="53.82" height="53.82" transform="translate(29.83 512.9)"/>
+          </g>
+          <text id="_2ft_Dark_Red" data-name="2ft, Dark Red" class="cls-6" transform="translate(109 431)"><tspan x="0" y="0">2ft, Dark Red</tspan></text>
+          <text id="Red_Cotton_Scarf" data-name="Red Cotton Scarf" class="cls-7" transform="translate(109 411)"><tspan x="0" y="0">Red Cotton Scarf</tspan></text>
+          <text id="_11.00" data-name="$11.00" class="cls-8" transform="translate(109 453)"><tspan x="0" y="0">$11.00</tspan></text>
+          <g id="Group_34" data-name="Group 34" transform="translate(65 283)">
+            <text id="_1" data-name="1" class="cls-9" transform="translate(257 170)"><tspan x="-8.086" y="0">1</tspan></text>
+            <g id="Group_29" data-name="Group 29" transform="translate(-65 -9)">
+              <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-10" cx="9" cy="9" r="9" transform="translate(337 164)"/>
+              <g id="Union_1" data-name="Union 1" class="cls-11" transform="translate(1736 168)">
+                <path class="cls-15" d="M -1389.999633789062 9.499899864196777 C -1390.275756835938 9.499899864196777 -1390.50048828125 9.275650024414062 -1390.50048828125 9 L -1390.50048828125 6.00029993057251 L -1390.50048828125 5.50029993057251 L -1391.00048828125 5.50029993057251 L -1394.000122070312 5.50029993057251 C -1394.275756835938 5.50029993057251 -1394.5 5.276050090789795 -1394.5 5.000400066375732 C -1394.5 4.724259853363037 -1394.275756835938 4.499599933624268 -1394.000122070312 4.499599933624268 L -1391.00048828125 4.499599933624268 L -1390.50048828125 4.499599933624268 L -1390.50048828125 3.999599933624268 L -1390.50048828125 0.9998999238014221 C -1390.50048828125 0.7242499589920044 -1390.275756835938 0.4999999403953552 -1389.999633789062 0.4999999403953552 C -1389.723999023438 0.4999999403953552 -1389.499755859375 0.7242499589920044 -1389.499755859375 0.9998999238014221 L -1389.499755859375 3.999599933624268 L -1389.499755859375 4.499599933624268 L -1388.999755859375 4.499599933624268 L -1386 4.499599933624268 C -1385.724365234375 4.499599933624268 -1385.500122070312 4.724259853363037 -1385.500122070312 5.000400066375732 C -1385.500122070312 5.276050090789795 -1385.724365234375 5.50029993057251 -1386 5.50029993057251 L -1388.999755859375 5.50029993057251 L -1389.499755859375 5.50029993057251 L -1389.499755859375 6.00029993057251 L -1389.499755859375 9 C -1389.499755859375 9.275650024414062 -1389.723999023438 9.499899864196777 -1389.999633789062 9.499899864196777 Z"/>
+                <path class="cls-16" d="M -1389.999755859375 8.999898910522461 L -1389.999755859375 5.00029993057251 L -1386 4.999599933624268 L -1389.999755859375 4.999599933624268 L -1390.00048828125 0.9998999238014221 L -1390.00048828125 4.999599933624268 L -1394.000122070312 5.00029993057251 L -1390.00048828125 5.00029993057251 L -1390.001220703125 8.99983024597168 C -1390.001220703125 8.99983024597168 -1390.000732421875 8.999893188476562 -1389.999755859375 8.999898910522461 M -1389.999633789062 9.999899864196777 C -1390.55224609375 9.999899864196777 -1391.00048828125 9.552599906921387 -1391.00048828125 9 L -1391.00048828125 6.00029993057251 L -1394.000122070312 6.00029993057251 C -1394.551879882812 6.00029993057251 -1395 5.552099704742432 -1395 5.000400066375732 C -1395 4.447800159454346 -1394.551879882812 3.999599933624268 -1394.000122070312 3.999599933624268 L -1391.00048828125 3.999599933624268 L -1391.00048828125 0.9998999238014221 C -1391.00048828125 0.4472999274730682 -1390.55224609375 -6.790160966829717e-08 -1389.999633789062 -6.790160966829717e-08 C -1389.447875976562 -6.790160966829717e-08 -1388.999755859375 0.4472999274730682 -1388.999755859375 0.9998999238014221 L -1388.999755859375 3.999599933624268 L -1386 3.999599933624268 C -1385.447387695312 3.999599933624268 -1385.000122070312 4.447800159454346 -1385.000122070312 5.000400066375732 C -1385.000122070312 5.552099704742432 -1385.447387695312 6.00029993057251 -1386 6.00029993057251 L -1388.999755859375 6.00029993057251 L -1388.999755859375 9 C -1388.999755859375 9.552599906921387 -1389.447875976562 9.999899864196777 -1389.999633789062 9.999899864196777 Z"/>
+              </g>
+            </g>
+            <g id="Group_30" data-name="Group 30" transform="translate(-118 -9)">
+              <circle id="Ellipse_11-2" data-name="Ellipse 11" class="cls-10" cx="9" cy="9" r="9" transform="translate(337 164)"/>
+              <g id="Rectangle_17" data-name="Rectangle 17" class="cls-12" transform="translate(351 172) rotate(90)">
+                <rect class="cls-15" width="2" height="10" rx="1"/>
+                <rect class="cls-1" x="0.5" y="0.5" width="1" height="9" rx="0.5"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="Message_to_seller_optional_" data-name="Message to seller (optional)" class="cls-13" transform="translate(109 502)"><tspan x="0" y="0">Message to seller (optional)</tspan></text>
+      </g>
+    </g>
+    <text id="items-2" data-name="items" class="cls-14" transform="translate(25 380)"><tspan x="0" y="0">ITEMS</tspan></text>
+  </g>
+</svg>

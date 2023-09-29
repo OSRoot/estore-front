@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="466.5" height="94" viewBox="0 0 466.5 94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #727c8e;
+        opacity: 0.6;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 13px;
+        font-family: SegoeUI, Segoe UI;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-3 {
+        fill: #ff6969;
+      }
+
+      .cls-4 {
+        filter: url(#base);
+      }
+    </style>
+    <filter id="base" x="0" y="0" width="420" height="94" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.063"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="tabs" transform="translate(22.5 -143.5)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, -22.5, 143.5)">
+      <rect id="base-2" data-name="base" class="cls-1" width="375" height="49" transform="translate(22.5 14.5)"/>
+    </g>
+    <g id="text" transform="translate(7 -244)">
+      <text id="TOP_RATED" data-name="TOP RATED" class="cls-2" transform="translate(149 432)"><tspan x="-34.891" y="0">TOP RATED</tspan></text>
+      <text id="BEST_MATCH" data-name="BEST MATCH" class="cls-3" transform="translate(13 432)"><tspan x="0" y="0">BEST MATCH</tspan></text>
+      <text id="PRICE_LOW-HIGH" data-name="PRICE LOW-HIGH" class="cls-2" transform="translate(310 432)"><tspan x="-108.489" y="0">PRICE LOW-HIGH</tspan></text>
+      <text id="PRICE_HIGH-LOW" data-name="PRICE HIGH-LOW" class="cls-2" transform="translate(437 432)"><tspan x="-108.489" y="0">PRICE HIGH-LOW</tspan></text>
+    </g>
+  </g>
+</svg>

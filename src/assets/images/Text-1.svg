@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="231" height="34" viewBox="0 0 231 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #515c6f;
+        font-size: 12px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        fill: #ff6969;
+      }
+    </style>
+  </defs>
+  <text id="Text" class="cls-1"><tspan x="13.298" y="13">By creating an account, you agree to our </tspan><tspan class="cls-2" x="28.834" y="29">Terms of Service</tspan><tspan y="29" xml:space="preserve"> and </tspan><tspan class="cls-2" y="29">Privacy Policy</tspan></text>
+</svg>

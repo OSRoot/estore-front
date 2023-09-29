@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101.82" height="68.823" viewBox="0 0 101.82 68.823">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #727c8e;
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-3 {
+        filter: url(#Rectangle_5);
+      }
+    </style>
+    <filter id="Rectangle_5" x="0" y="0" width="101.82" height="68.823" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.063"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_4" data-name="4" transform="translate(15 7)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -15, -7)">
+      <rect id="Rectangle_5-2" data-name="Rectangle 5" class="cls-1" width="71.82" height="38.823" rx="10" transform="translate(15 7)"/>
+    </g>
+    <text id="_4.5" data-name="4.5" class="cls-2" transform="translate(36 25)"><tspan x="-10.312" y="0">4.5</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="335.803" height="44.202" viewBox="0 0 335.803 44.202">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff6969;
+      }
+
+      .cls-2 {
+        fill: #727c8e;
+        stroke: #727c8e;
+        stroke-width: 0.4px;
+      }
+
+      .cls-3, .cls-6, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 10px;
+      }
+
+      .cls-3, .cls-5, .cls-7 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #515c6f;
+        font-size: 15px;
+      }
+
+      .cls-4 {
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-7 {
+        font-size: 12px;
+      }
+
+      .cls-8 {
+        filter: url(#indicator_base);
+      }
+    </style>
+    <filter id="indicator_base" x="299" y="4.202" width="35" height="33" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#ff6969" flood-opacity="0.404"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Top" transform="translate(-20 -32.798)">
+    <path id="back" class="cls-1" d="M30.286,20v0a1.281,1.281,0,0,0-.393-.925h0l-7.714-7.714,0,0a1.285,1.285,0,1,0-1.727,1.9L27.185,20,20.36,26.822h0a1.285,1.285,0,0,0,1.818,1.818h0l7.714-7.714h0A1.281,1.281,0,0,0,30.286,20Z" transform="translate(50.286 65) rotate(-180)"/>
+    <g id="Top_Buttons" data-name="Top Buttons">
+      <path id="Cart" class="cls-2" d="M93.4,81.942H78.48l-.859-2.02a.706.706,0,0,0-.488-.411l-2.767-.651a.706.706,0,0,0-.323,1.374l2.419.569,6.193,14.559a2.333,2.333,0,1,0,4.179.235h2.541a2.333,2.333,0,1,0,2.148-1.422l-7.835.011-.966-2.272H93.4a.706.706,0,0,0,.706-.706V82.647A.706.706,0,0,0,93.4,81.942ZM91.525,95.587a.922.922,0,1,1-.922.922A.922.922,0,0,1,91.525,95.587Zm-6.834,0a.922.922,0,1,1-.922.922A.922.922,0,0,1,84.69,95.587Zm8-9.364H88.014a.706.706,0,0,0,0,1.411H92.69V90.5H82.122l-3.042-7.15H92.69Z" transform="translate(261.501 -45.841)"/>
+      <g id="Indicator" transform="translate(-10 -16)">
+        <g class="cls-8" transform="matrix(1, 0, 0, 1, 30, 48.8)">
+          <rect id="indicator_base-2" data-name="indicator base" class="cls-1" width="17" height="15" rx="7" transform="translate(308 9.2)"/>
+        </g>
+        <text id="_7" data-name="7" class="cls-3" transform="translate(344 69)"><tspan x="0" y="0">7</tspan></text>
+      </g>
+    </g>
+    <g id="product_details" data-name="product details" transform="translate(0 -260)">
+      <text id="Faux_Sued_Ankle_Boots" data-name="Faux Sued Ankle Boots" class="cls-4" transform="translate(188 310)"><tspan x="-70.851" y="0">Faux Sued Ankle Boots</tspan></text>
+      <text id="_49.99" data-name="$49.99" class="cls-5" transform="translate(163 332)"><tspan x="-23.602" y="0">$49.99</tspan></text>
+      <g id="rating" transform="translate(45 37)">
+        <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-1" width="42" height="19" rx="9.5" transform="translate(148 281)"/>
+        <path id="Path_12" data-name="Path 12" class="cls-6" d="M59,72.039,62.09,74l-.817-3.7L64,67.813l-3.6-.325L59,64l-1.4,3.488-3.6.325L56.728,70.3,55.91,74Z" transform="translate(99 221)"/>
+        <text id="_4.9" data-name="4.9" class="cls-7" transform="translate(174 295)"><tspan x="-8.528" y="0">4.9</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

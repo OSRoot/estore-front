@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="185" height="59" viewBox="0 0 185 59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: url(#pattern);
+      }
+
+      .cls-5 {
+        fill: #515c6f;
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-6 {
+        filter: url(#Rectangle_33);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="185" height="59"/>
+    </clipPath>
+    <filter id="Rectangle_33" x="-22.5" y="-14.5" width="230" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 87 87">
+      <image width="87" height="87" xlink:href="Repeat%20Grid%2028-image.png"/>
+    </pattern>
+  </defs>
+  <g id="Repeat_Grid_28" data-name="Repeat Grid 28" class="cls-2">
+    <g transform="translate(-328 -968)">
+      <g id="item" class="cls-2" transform="translate(328 968)">
+        <g id="item-2" data-name="item" transform="translate(-20 -393)">
+          <g class="cls-6" transform="matrix(1, 0, 0, 1, 20, 393)">
+            <rect id="Rectangle_33-2" data-name="Rectangle 33" class="cls-3" width="185" height="59" rx="10"/>
+          </g>
+          <g id="Group_13" data-name="Group 13" transform="translate(0 -109)">
+            <rect id="scarf_PNG48" class="cls-4" width="39.509" height="39.509" transform="translate(28.338 510.769)"/>
+          </g>
+          <text id="_11.00" data-name="$11.00" class="cls-5" transform="translate(77 437)"><tspan x="0" y="0">$11.00</tspan></text>
+          <text id="Red_Cotton_Scarf" data-name="Red Cotton Scarf" class="cls-5" transform="translate(77 417)"><tspan x="0" y="0">Red Cotton Scarf</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

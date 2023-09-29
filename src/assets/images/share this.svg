@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="195" height="76" viewBox="0 0 195 76">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #727c8e;
+      }
+
+      .cls-2 {
+        font-size: 12px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+      }
+
+      .cls-4 {
+        stroke: #fff;
+        stroke-width: 0.7px;
+      }
+
+      .cls-5 {
+        filter: url(#base);
+      }
+    </style>
+    <filter id="base" x="0" y="0" width="195" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.153"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="share_this" data-name="share this" transform="translate(-5 -591)">
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, 5, 591)">
+      <rect id="base-2" data-name="base" class="cls-1" width="165" height="46" rx="23" transform="translate(15 10)"/>
+    </g>
+    <text id="SHARE_THIS-2" data-name="SHARE THIS" class="cls-2" transform="translate(85 629)"><tspan x="-37.561" y="0">SHARE THIS</tspan></text>
+    <g id="icon" transform="translate(13.734 219.063)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-3" width="28.797" height="29.62" rx="14.399" transform="translate(134.266 389.937)"/>
+      <g id="share-arrow" transform="translate(94.539 396.278)">
+        <g id="Group_27" data-name="Group 27" transform="translate(47.727 0)">
+          <path id="Path_14" data-name="Path 14" class="cls-4" d="M117.438,12.71a.724.724,0,0,0,.722-.722V2.211l3.079,2.742a.724.724,0,1,0,.962-1.082L118.051.179a.726.726,0,0,0-.926-.024.726.726,0,0,0-.313.289l-3.6,3.451a.723.723,0,1,0,1,1.046l2.5-2.405v9.452A.724.724,0,0,0,117.438,12.71Z" transform="translate(-111.658 2)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

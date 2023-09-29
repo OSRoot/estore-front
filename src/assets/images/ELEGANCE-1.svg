@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="30" viewBox="0 0 128 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 22px;
+        font-family: SegoeUI, Segoe UI;
+        letter-spacing: 0.16em;
+      }
+    </style>
+  </defs>
+  <text id="ELEGANCE" class="cls-1" transform="translate(64 24)"><tspan x="-63.872" y="0">ELEGANCE</tspan></text>
+</svg>

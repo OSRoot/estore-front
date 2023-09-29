@@ -1,0 +1,236 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="330" height="463" viewBox="0 0 330 463">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        stroke: #727c8e;
+        opacity: 0.15;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #515c6f;
+      }
+
+      .cls-4, .cls-6 {
+        font-size: 14px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-5 {
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-6 {
+        opacity: 0.5;
+      }
+
+      .cls-7 {
+        fill: #efa5a5;
+      }
+
+      .cls-8 {
+        fill: #d68787;
+      }
+
+      .cls-10, .cls-12, .cls-14, .cls-16, .cls-8 {
+        font-size: 22px;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-10, .cls-12, .cls-14, .cls-16, .cls-18, .cls-8 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        fill: #fdc880;
+      }
+
+      .cls-10 {
+        fill: #dea95f;
+      }
+
+      .cls-11 {
+        fill: #bebeff;
+      }
+
+      .cls-12 {
+        fill: #9b9be2;
+      }
+
+      .cls-13 {
+        fill: #9de5ff;
+      }
+
+      .cls-14 {
+        fill: #81cae5;
+      }
+
+      .cls-15 {
+        fill: #b7e6e6;
+      }
+
+      .cls-16 {
+        fill: #85cbcb;
+      }
+
+      .cls-17 {
+        fill: #ff6969;
+      }
+
+      .cls-18 {
+        fill: #fff;
+        font-size: 10px;
+      }
+
+      .cls-19 {
+        filter: url(#indicator_base);
+      }
+
+      .cls-20 {
+        filter: url(#Ellipse_12);
+      }
+
+      .cls-21 {
+        filter: url(#Ellipse_13);
+      }
+
+      .cls-22 {
+        filter: url(#Ellipse_14);
+      }
+
+      .cls-23 {
+        filter: url(#Ellipse_15);
+      }
+
+      .cls-24 {
+        filter: url(#Ellipse_16);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="330" height="463"/>
+    </clipPath>
+    <filter id="Ellipse_16" x="-18" y="388" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#efa5a5" flood-opacity="0.404"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_15" x="-18" y="288" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-color="#fdc880" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_14" x="-18" y="188" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-3"/>
+      <feFlood flood-color="#bebeff" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_13" x="-18" y="88" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-4"/>
+      <feFlood flood-color="#9de5ff" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_12" x="-18" y="-12" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-5"/>
+      <feFlood flood-color="#b7e6e6" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="indicator_base" x="302" y="34" width="35" height="33" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#ff6969" flood-opacity="0.404"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Repeat_Grid_8" data-name="Repeat Grid 8" class="cls-2">
+    <g transform="translate(-25 -176)">
+      <g id="dividers">
+        <line id="Line_17" data-name="Line 17" class="cls-3" x2="255" transform="translate(100 256)"/>
+        <line id="Line_19" data-name="Line 19" class="cls-3" x2="255" transform="translate(100 356)"/>
+        <line id="Line_20" data-name="Line 20" class="cls-3" x2="255" transform="translate(100 456)"/>
+        <line id="Line_21" data-name="Line 21" class="cls-3" x2="255" transform="translate(100 556)"/>
+      </g>
+      <g id="_5" data-name="5">
+        <text id="Esse_cillum_dolore_eu_fugiat_nulla_pariatur_" data-name="Esse cillum dolore eu fugiat nulla pariatur…" class="cls-4" transform="translate(100 599)"><tspan x="0" y="15">Esse cillum dolore eu fugiat nulla </tspan><tspan x="0" y="35">pariatur…</tspan></text>
+        <text id="Anna_s_Corner" data-name="Anna’s Corner" class="cls-5" transform="translate(100 591)"><tspan x="0" y="0">Anna’s Corner</tspan></text>
+        <text id="_11_Aug" data-name="11 Aug" class="cls-6" transform="translate(355 591)"><tspan x="-37.953" y="0">11 Aug</tspan></text>
+        <g id="icon">
+          <g class="cls-24" transform="matrix(1, 0, 0, 1, 25, 176)">
+            <circle id="Ellipse_16-2" data-name="Ellipse 16" class="cls-7" cx="30" cy="30" r="30" transform="translate(0 400)"/>
+          </g>
+          <text id="AC" class="cls-8" transform="translate(55 614)"><tspan x="-14.872" y="0">AC</tspan></text>
+        </g>
+      </g>
+      <g id="_4" data-name="4">
+        <text id="Duis_aute_irure_dolor_in_reprehenderit_in_voluptate_velit_" data-name="Duis aute irure dolor in reprehenderit in voluptate velit " class="cls-4" transform="translate(100 499)"><tspan x="0" y="15">Duis aute irure dolor in </tspan><tspan x="0" y="35">reprehenderit in voluptate velit </tspan></text>
+        <text id="FSHN_Boutique" data-name="FSHN Boutique" class="cls-5" transform="translate(100 491)"><tspan x="0" y="0">FSHN Boutique</tspan></text>
+        <text id="_15_Sep" data-name="15 Sep" class="cls-6" transform="translate(355 491)"><tspan x="-37.905" y="0">15 Sep</tspan></text>
+        <g id="icon-2" data-name="icon">
+          <g class="cls-23" transform="matrix(1, 0, 0, 1, 25, 176)">
+            <circle id="Ellipse_15-2" data-name="Ellipse 15" class="cls-9" cx="30" cy="30" r="30" transform="translate(0 300)"/>
+          </g>
+          <text id="FB" class="cls-10" transform="translate(55 514)"><tspan x="-13.212" y="0">FB</tspan></text>
+        </g>
+      </g>
+      <g id="_3" data-name="3">
+        <text id="Laboris_nisi_ut_aliquip_ex_ea_commodo_consequat." data-name="Laboris nisi ut aliquip ex ea commodo consequat." class="cls-4" transform="translate(100 399)"><tspan x="0" y="15">Laboris nisi ut aliquip ex ea </tspan><tspan x="0" y="35">commodo consequat.</tspan></text>
+        <text id="LoveLee_Bees" data-name="LoveLee Bees" class="cls-5" transform="translate(100 391)"><tspan x="0" y="0">LoveLee Bees</tspan></text>
+        <text id="Yesterday" class="cls-6" transform="translate(355 391)"><tspan x="-54.858" y="0">Yesterday</tspan></text>
+        <g id="icon-3" data-name="icon">
+          <g class="cls-22" transform="matrix(1, 0, 0, 1, 25, 176)">
+            <circle id="Ellipse_14-2" data-name="Ellipse 14" class="cls-11" cx="30" cy="30" r="30" transform="translate(0 200)"/>
+          </g>
+          <text id="LB" class="cls-12" transform="translate(55 414)"><tspan x="-13.116" y="0">LB</tspan></text>
+        </g>
+      </g>
+      <g id="_2" data-name="2">
+        <text id="Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_" data-name="Ut enim ad minim veniam, quis nostrud exercitation ullamco… " class="cls-4" transform="translate(100 300)"><tspan x="0" y="15">Ut enim ad minim veniam, quis </tspan><tspan x="0" y="35">nostrud exercitation ullamco… </tspan></text>
+        <text id="Beauty_Supplies_Store" data-name="Beauty Supplies Store" class="cls-5" transform="translate(100 291)"><tspan x="0" y="0">Beauty Supplies Store</tspan></text>
+        <text id="_8:12_AM" data-name="8:12 AM" class="cls-6" transform="translate(355 291)"><tspan x="-46.826" y="0">8:12 AM</tspan></text>
+        <g id="icon-4" data-name="icon">
+          <g class="cls-21" transform="matrix(1, 0, 0, 1, 25, 176)">
+            <circle id="Ellipse_13-2" data-name="Ellipse 13" class="cls-13" cx="30" cy="30" r="30" transform="translate(0 100)"/>
+          </g>
+          <text id="BS" class="cls-14" transform="translate(55 314)"><tspan x="-13.658" y="0">BS</tspan></text>
+        </g>
+      </g>
+      <g id="_1" data-name="1">
+        <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt" class="cls-4" transform="translate(100 200)"><tspan x="0" y="15">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="35">consectetur adipiscing elit, sed </tspan></text>
+        <text id="Smiley_s_Store" data-name="Smiley’s Store" class="cls-5" transform="translate(100 191)"><tspan x="0" y="0">Smiley’s Store</tspan></text>
+        <text id="_9:20_AM" data-name="9:20 AM" class="cls-6" transform="translate(355 191)"><tspan x="-49.048" y="0">9:20 AM</tspan></text>
+        <g id="icon-5" data-name="icon">
+          <g class="cls-20" transform="matrix(1, 0, 0, 1, 25, 176)">
+            <circle id="Ellipse_12-2" data-name="Ellipse 12" class="cls-15" cx="30" cy="30" r="30"/>
+          </g>
+          <text id="SS" class="cls-16" transform="translate(55 214)"><tspan x="-12.772" y="0">SS</tspan></text>
+        </g>
+        <g id="Indicator" transform="translate(-2 157)">
+          <g class="cls-19" transform="matrix(1, 0, 0, 1, 27, 19)">
+            <rect id="indicator_base-2" data-name="indicator base" class="cls-17" width="17" height="15" rx="7" transform="translate(311 39)"/>
+          </g>
+          <text id="_5-2" data-name="5" class="cls-18" transform="translate(344 69)"><tspan x="0" y="0">5</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

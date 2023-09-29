@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="335" height="63.5" viewBox="0 0 335 63.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #515c6f;
+      }
+
+      .cls-1 {
+        font-size: 12px;
+        font-family: SegoeUI, Segoe UI;
+        letter-spacing: 0.07em;
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        font-size: 15px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #727c8e;
+        opacity: 0.15;
+      }
+
+      .cls-4, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #ff4d4d;
+      }
+
+      .cls-6 {
+        fill: #ff9f21;
+        opacity: 0.7;
+      }
+
+      .cls-7 {
+        fill: #727c8e;
+        opacity: 0.2;
+      }
+
+      .cls-10, .cls-9 {
+        stroke: none;
+      }
+
+      .cls-10 {
+        fill: #727c8e;
+      }
+    </style>
+  </defs>
+  <g id="payment" transform="translate(-20 -285)">
+    <text id="Page_Title" data-name="Page Title" class="cls-1" transform="translate(25 298)"><tspan x="0" y="0">PAYMENT METHOD</tspan></text>
+    <text id="Master_Card_ending_00" data-name="Master Card ending **00" class="cls-2" transform="translate(61 325)"><tspan x="0" y="0">Master Card ending **00</tspan></text>
+    <line id="Line_16" data-name="Line 16" class="cls-3" x2="335" transform="translate(20 348)"/>
+    <g id="Group_53" data-name="Group 53">
+      <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-4" width="26" height="18" rx="5" transform="translate(25 310)"/>
+      <g id="Group_35" data-name="Group 35" transform="translate(1 -19)">
+        <rect id="Rectangle_19" data-name="Rectangle 19" class="cls-5" width="10" height="10" rx="5" transform="translate(29 333)"/>
+        <rect id="Rectangle_20" data-name="Rectangle 20" class="cls-6" width="10" height="10" rx="5" transform="translate(35 333)"/>
+      </g>
+    </g>
+    <g id="Group_29" data-name="Group 29" transform="translate(0 146)">
+      <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-7" cx="9" cy="9" r="9" transform="translate(337 164)"/>
+      <g id="Union_1" data-name="Union 1" class="cls-8" transform="translate(1327.171 -813.414) rotate(-45)">
+        <path class="cls-9" d="M -1389.999633789062 5.50029993057251 L -1394.000122070312 5.50029993057251 C -1394.275756835938 5.50029993057251 -1394.5 5.276050090789795 -1394.5 5.000400066375732 C -1394.5 4.724259853363037 -1394.275756835938 4.499599933624268 -1394.000122070312 4.499599933624268 L -1391.00048828125 4.499599933624268 L -1390.50048828125 4.499599933624268 L -1390.50048828125 3.999599933624268 L -1390.50048828125 0.9998999834060669 C -1390.50048828125 0.7242499589920044 -1390.275756835938 0.4999999701976776 -1389.999633789062 0.4999999701976776 C -1389.723999023438 0.4999999701976776 -1389.499755859375 0.7242499589920044 -1389.499755859375 0.9998999834060669 L -1389.499755859375 5.000400066375732 C -1389.499755859375 5.276050090789795 -1389.723999023438 5.50029993057251 -1389.999633789062 5.50029993057251 Z"/>
+        <path class="cls-10" d="M -1389.999633789062 5.00029993057251 L -1389.999755859375 5.000400066375732 L -1390.00048828125 0.9998999834060669 L -1390.00048828125 4.999599933624268 L -1394.000122070312 5.00029993057251 L -1389.999633789062 5.00029993057251 M -1389.999633789062 6.00029993057251 L -1394.000122070312 6.00029993057251 C -1394.551879882812 6.00029993057251 -1395 5.55210018157959 -1395 5.000400066375732 C -1395 4.447800159454346 -1394.551879882812 3.999599933624268 -1394.000122070312 3.999599933624268 L -1391.00048828125 3.999599933624268 L -1391.00048828125 0.9998999834060669 C -1391.00048828125 0.4472999572753906 -1390.55224609375 -3.471374654395731e-08 -1389.999633789062 -3.471374654395731e-08 C -1389.447875976562 -3.471374654395731e-08 -1388.999755859375 0.4472999572753906 -1388.999755859375 0.9998999834060669 L -1388.999755859375 5.000400066375732 C -1388.999755859375 5.55210018157959 -1389.447875976562 6.00029993057251 -1389.999633789062 6.00029993057251 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

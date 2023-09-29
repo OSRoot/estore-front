@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145" height="145" viewBox="0 0 145 145">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#pattern);
+      }
+
+      .cls-2 {
+        filter: url(#photo);
+      }
+    </style>
+    <pattern id="pattern" width="1" height="1" viewBox="39.933 5.533 64.042 64.042">
+      <image preserveAspectRatio="xMidYMid slice" width="149.857" height="100" xlink:href="photo-image.png"/>
+    </pattern>
+    <filter id="photo" x="0" y="0" width="145" height="145" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="photo-2" data-name="photo" transform="translate(-2.5 -491.5)">
+    <g class="cls-2" transform="matrix(1, 0, 0, 1, 2.5, 491.5)">
+      <rect id="photo-3" data-name="photo" class="cls-1" width="100" height="100" rx="50" transform="translate(22.5 14.5)"/>
+    </g>
+  </g>
+</svg>

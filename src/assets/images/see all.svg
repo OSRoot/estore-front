@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="16" viewBox="0 0 55 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff6969;
+        font-size: 12px;
+        font-family: SegoeUI, Segoe UI;
+        letter-spacing: 0.07em;
+      }
+    </style>
+  </defs>
+  <text id="see_all" data-name="see all" class="cls-1" transform="translate(55 13)"><tspan x="-54.423" y="0">LOG OUT</tspan></text>
+</svg>

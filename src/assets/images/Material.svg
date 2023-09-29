@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="36" viewBox="0 0 101 36">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #515c6f;
+      }
+
+      .cls-1 {
+        font-size: 12px;
+        font-family: SegoeUI, Segoe UI;
+        letter-spacing: 0.07em;
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g id="Material" transform="translate(-49 -419)">
+    <text id="Page_Title" data-name="Page Title" class="cls-1" transform="translate(150 432)"><tspan x="-59.651" y="0">MATERIAL</tspan></text>
+    <text id="Faux_Sued_Velvet" data-name="Faux Sued, Velvet" class="cls-2" transform="translate(150 451)"><tspan x="-100.782" y="0">Faux Sued, Velvet</tspan></text>
+  </g>
+</svg>

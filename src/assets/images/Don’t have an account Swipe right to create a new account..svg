@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="231" height="34" viewBox="0 0 231 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #515c6f;
+        font-size: 12px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        fill: #ff6969;
+      }
+    </style>
+  </defs>
+  <text id="Don_t_have_an_account_Swipe_right_to_create_a_new_account." data-name="Don’t have an account? Swipe right to create a new account." class="cls-1"><tspan x="3.302" y="13">Don’t have an account? Swipe right to </tspan><tspan class="cls-2" y="13">create </tspan><tspan class="cls-2" x="77.754" y="29">a new account.</tspan></text>
+</svg>

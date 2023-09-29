@@ -1,0 +1,311 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="665" height="524" viewBox="0 0 665 524">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#pattern);
+      }
+
+      .cls-4, .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #727c8e;
+        letter-spacing: 0.06em;
+      }
+
+      .cls-12, .cls-5 {
+        font-size: 12px;
+      }
+
+      .cls-5, .cls-8 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-6 {
+        fill: #ff6969;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+      }
+
+      .cls-8 {
+        font-size: 29px;
+      }
+
+      .cls-9 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-10, .cls-12, .cls-13 {
+        fill: #515c6f;
+      }
+
+      .cls-10 {
+        font-size: 30px;
+      }
+
+      .cls-10, .cls-13 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-12 {
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-13 {
+        font-size: 10px;
+      }
+
+      .cls-14 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-15 {
+        fill: url(#pattern-4);
+      }
+
+      .cls-16 {
+        fill: url(#pattern-5);
+      }
+
+      .cls-17 {
+        fill: url(#pattern-6);
+      }
+
+      .cls-18 {
+        fill: url(#pattern-7);
+      }
+
+      .cls-19 {
+        fill: url(#pattern-8);
+      }
+
+      .cls-20 {
+        filter: url(#Rectangle_3-6);
+      }
+
+      .cls-21 {
+        filter: url(#Rectangle_3-5);
+      }
+
+      .cls-22 {
+        filter: url(#Rectangle_3-4);
+      }
+
+      .cls-23 {
+        filter: url(#Rectangle_3-3);
+      }
+
+      .cls-24 {
+        filter: url(#Rectangle_3-2);
+      }
+
+      .cls-25 {
+        filter: url(#Rectangle_3);
+      }
+
+      .cls-26 {
+        filter: url(#_5c539eba2686f4b29ecaf55df872f87b);
+      }
+
+      .cls-27 {
+        filter: url(#Rectangle_1);
+      }
+
+      .cls-28 {
+        filter: url(#Base);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="665" height="184"/>
+    </clipPath>
+    <pattern id="pattern" width="1" height="1" viewBox="0 110.599 325 184">
+      <image preserveAspectRatio="xMidYMid slice" width="325" height="487.152" xlink:href="Trending-image.png"/>
+    </pattern>
+    <filter id="Base" x="-40.5" y="15.5" width="406" height="265" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1" x="-0.5" y="153.5" width="188" height="84.494" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-2" width="1" height="1" viewBox="0 32.667 325 184">
+      <image preserveAspectRatio="xMidYMid slice" width="325" height="216.667" xlink:href="Trending-image2.png"/>
+    </pattern>
+    <filter id="_5c539eba2686f4b29ecaf55df872f87b" x="299.5" y="15.5" width="406" height="265" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur-3"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="325" height="281"/>
+    </clipPath>
+    <filter id="Rectangle_3" x="-22.5" y="228.5" width="146" height="180" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-4"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 35 76">
+      <image width="35" height="76" xlink:href="Trending-image3.png"/>
+    </pattern>
+    <filter id="Rectangle_3-2" x="-22.5" y="374.5" width="146" height="180" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-5"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 75 67">
+      <image width="75" height="67" xlink:href="Trending-image4.png"/>
+    </pattern>
+    <filter id="Rectangle_3-3" x="89.5" y="228.5" width="146" height="180" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-6"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 59 78">
+      <image width="59" height="78" xlink:href="Trending-image5.png"/>
+    </pattern>
+    <filter id="Rectangle_3-4" x="89.5" y="374.5" width="146" height="180" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-7"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-6" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 35 79">
+      <image width="35" height="79" xlink:href="Trending-image6.png"/>
+    </pattern>
+    <filter id="Rectangle_3-5" x="201.5" y="228.5" width="146" height="180" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-8"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-7" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 41 76">
+      <image width="41" height="76" xlink:href="Trending-image7.png"/>
+    </pattern>
+    <filter id="Rectangle_3-6" x="201.5" y="374.5" width="146" height="180" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-9"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-8" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 76 63">
+      <image width="76" height="63" xlink:href="Trending-image8.png"/>
+    </pattern>
+  </defs>
+  <g id="Trending" transform="translate(-25 -219)">
+    <g id="Repeat_Grid_13" data-name="Repeat Grid 13" class="cls-2" transform="translate(25 267)">
+      <g transform="translate(-25 -267)">
+        <g id="Banner_1" data-name="Banner 1" transform="translate(0 -44)">
+          <g class="cls-28" transform="matrix(1, 0, 0, 1, 25, 263)">
+            <rect id="Base-2" data-name="Base" class="cls-3" width="325" height="184" rx="10" transform="translate(0 48)"/>
+          </g>
+          <g id="Button" transform="translate(-91 31)">
+            <g class="cls-27" transform="matrix(1, 0, 0, 1, 116, 232)">
+              <rect id="Rectangle_1-2" data-name="Rectangle 1" class="cls-4" width="143" height="39.494" rx="19.747" transform="translate(22 168)"/>
+            </g>
+            <text id="COLLECTION" class="cls-5" transform="translate(193.456 424.342)"><tspan x="-37.468" y="0">COLLECTION</tspan></text>
+            <g id="Group_99" data-name="Group 99" transform="translate(22)">
+              <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-6" width="28.797" height="29.62" rx="14.399" transform="translate(225.266 404.937)"/>
+              <path id="Path_11" data-name="Path 11" class="cls-7" d="M26.582,16.758v0a.82.82,0,0,0-.252-.592h0l-4.937-4.937,0,0a.822.822,0,1,0-1.105,1.218L24.6,16.758,20.23,21.125h0a.823.823,0,0,0,1.163,1.163h0l4.937-4.937h0a.82.82,0,0,0,.252-.592Z" transform="translate(216.785 402.987)"/>
+            </g>
+          </g>
+          <text id="Look_soft_like_a_Pastel_this_Winter._Shop_our_colleciton" data-name="Look soft like 
+a Pastel this Winter. 
+Shop our colleciton" class="cls-8" transform="translate(50 326)"><tspan x="0" y="31">Look soft like </tspan><tspan x="0" y="61">a Pastel this </tspan><tspan x="0" y="91">Winter. </tspan></text>
+        </g>
+        <g id="Banner_2" data-name="Banner 2" transform="translate(340 -44)">
+          <g class="cls-26" transform="matrix(1, 0, 0, 1, -315, 263)">
+            <rect id="_5c539eba2686f4b29ecaf55df872f87b-2" data-name="5c539eba2686f4b29ecaf55df872f87b" class="cls-9" width="325" height="184" rx="10" transform="translate(340 48)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Page_Title" data-name="Page Title" class="cls-10" transform="translate(25 251)"><tspan x="0" y="0">Trending</tspan></text>
+    <g id="Repeat_Grid_12" data-name="Repeat Grid 12" class="cls-11" transform="translate(25 462)">
+      <g transform="translate(-25 -462)">
+        <g id="_1" data-name="1" transform="translate(0 -44)">
+          <g class="cls-25" transform="matrix(1, 0, 0, 1, 25, 263)">
+            <rect id="Rectangle_3-7" data-name="Rectangle 3" class="cls-4" width="101" height="135" rx="10" transform="translate(0 243)"/>
+          </g>
+          <text id="Floral_Dress" data-name="Floral Dress" class="cls-12" transform="translate(36 616)"><tspan x="0" y="0">Floral Dress</tspan></text>
+          <text id="_49.99" data-name="$49.99" class="cls-13" transform="translate(36 630)"><tspan x="0" y="0">$49.99</tspan></text>
+          <rect id="Image_1" data-name="Image 1" class="cls-14" width="35" height="76" transform="translate(57 517)"/>
+        </g>
+        <g id="_2" data-name="2" transform="translate(0 102)">
+          <g class="cls-24" transform="matrix(1, 0, 0, 1, 25, 117)">
+            <rect id="Rectangle_3-8" data-name="Rectangle 3" class="cls-4" width="101" height="135" rx="10" transform="translate(0 389)"/>
+          </g>
+          <text id="Floral_Dress-2" data-name="Floral Dress" class="cls-12" transform="translate(36 616)"><tspan x="0" y="0">Floral Dress</tspan></text>
+          <text id="_49.99-2" data-name="$49.99" class="cls-13" transform="translate(36 630)"><tspan x="0" y="0">$49.99</tspan></text>
+          <rect id="Image_4" data-name="Image 4" class="cls-15" width="75" height="67" transform="translate(37 525)"/>
+        </g>
+        <g id="_3" data-name="3" transform="translate(112 -44)">
+          <g class="cls-23" transform="matrix(1, 0, 0, 1, -87, 263)">
+            <rect id="Rectangle_3-9" data-name="Rectangle 3" class="cls-4" width="101" height="135" rx="10" transform="translate(112 243)"/>
+          </g>
+          <text id="Pattern_Dress" data-name="Pattern Dress" class="cls-12" transform="translate(36 616)"><tspan x="0" y="0">Pattern Dress</tspan></text>
+          <text id="_20.58" data-name="$20.58" class="cls-13" transform="translate(36 630)"><tspan x="0" y="0">$20.58</tspan></text>
+          <rect id="Image_3" data-name="Image 3" class="cls-16" width="59" height="78" transform="translate(45 516)"/>
+        </g>
+        <g id="_4" data-name="4" transform="translate(112 102)">
+          <g class="cls-22" transform="matrix(1, 0, 0, 1, -87, 117)">
+            <rect id="Rectangle_3-10" data-name="Rectangle 3" class="cls-4" width="101" height="135" rx="10" transform="translate(112 389)"/>
+          </g>
+          <text id="Pattern_Dress-2" data-name="Pattern Dress" class="cls-12" transform="translate(36 616)"><tspan x="0" y="0">Pattern Dress</tspan></text>
+          <text id="_20.58-2" data-name="$20.58" class="cls-13" transform="translate(36 630)"><tspan x="0" y="0">$20.58</tspan></text>
+          <rect id="Image_5" data-name="Image 5" class="cls-17" width="35" height="79" transform="translate(57 517)"/>
+        </g>
+        <g id="_5" data-name="5" transform="translate(224 -44)">
+          <g class="cls-21" transform="matrix(1, 0, 0, 1, -199, 263)">
+            <rect id="Rectangle_3-11" data-name="Rectangle 3" class="cls-4" width="101" height="135" rx="10" transform="translate(224 243)"/>
+          </g>
+          <text id="Cotton_Dress" data-name="Cotton Dress" class="cls-12" transform="translate(36 616)"><tspan x="0" y="0">Cotton Dress</tspan></text>
+          <text id="_11.00" data-name="$11.00" class="cls-13" transform="translate(36 630)"><tspan x="0" y="0">$11.00</tspan></text>
+          <rect id="Image_2" data-name="Image 2" class="cls-18" width="41" height="76" transform="translate(56 519)"/>
+        </g>
+        <g id="_6" data-name="6" transform="translate(224 102)">
+          <g class="cls-20" transform="matrix(1, 0, 0, 1, -199, 117)">
+            <rect id="Rectangle_3-12" data-name="Rectangle 3" class="cls-4" width="101" height="135" rx="10" transform="translate(224 389)"/>
+          </g>
+          <text id="Cotton_Dress-2" data-name="Cotton Dress" class="cls-12" transform="translate(36 616)"><tspan x="0" y="0">Cotton Dress</tspan></text>
+          <text id="_11.00-2" data-name="$11.00" class="cls-13" transform="translate(36 630)"><tspan x="0" y="0">$11.00</tspan></text>
+          <rect id="Image_6" data-name="Image 6" class="cls-19" width="76" height="63" transform="translate(37 527)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

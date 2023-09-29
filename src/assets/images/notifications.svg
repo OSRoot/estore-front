@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="20" viewBox="0 0 17 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #727c8e;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="17" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="notifications" class="cls-2">
+    <path id="notifications-2" data-name="notifications" class="cls-3" d="M11.5,22a2.006,2.006,0,0,0,2-2h-4A2.006,2.006,0,0,0,11.5,22ZM18,16V10.5a6.435,6.435,0,0,0-5-6.3V3.5a1.5,1.5,0,0,0-3,0v.7a6.435,6.435,0,0,0-5,6.3V16L3,18v1H20V18Zm-2,1H7V10.5a4.5,4.5,0,0,1,9,0Z" transform="translate(-3 -2)"/>
+  </g>
+</svg>

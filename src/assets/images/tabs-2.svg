@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="94.5" viewBox="0 0 420 94.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #ff6969;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-4 {
+        fill: #727c8e;
+      }
+
+      .cls-5 {
+        filter: url(#selected_tab_base);
+      }
+
+      .cls-6 {
+        filter: url(#base);
+      }
+    </style>
+    <filter id="base" x="0" y="0" width="420" height="94" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.063"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="selected_tab_base" x="125" y="48" width="170" height="46.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.027"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="tabs" transform="translate(22.5 -143.5)">
+    <g class="cls-6" transform="matrix(1, 0, 0, 1, -22.5, 143.5)">
+      <rect id="base-2" data-name="base" class="cls-1" width="375" height="49" transform="translate(22.5 14.5)"/>
+    </g>
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, -22.5, 143.5)">
+      <rect id="selected_tab_base-2" data-name="selected tab base" class="cls-2" width="125" height="1.5" transform="translate(147.5 62.5)"/>
+    </g>
+    <g id="toggles" transform="translate(-3 -224)">
+      <g id="Group_23" data-name="Group 23" transform="translate(10 -20)">
+        <g id="Group_20" data-name="Group 20" transform="translate(115 27)">
+          <text id="Products" class="cls-3" transform="translate(63 405)"><tspan x="-29.052" y="0">Products</tspan></text>
+        </g>
+        <text id="Home" class="cls-4" transform="translate(36 432)"><tspan x="0" y="0">Home</tspan></text>
+        <text id="Reviews" class="cls-4" transform="translate(333 432)"><tspan x="-52.244" y="0">Reviews</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

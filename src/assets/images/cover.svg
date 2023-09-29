@@ -1,0 +1,19 @@
+<svg id="cover" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="158" viewBox="0 0 375 158">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #162172;
+      }
+
+      .cls-2 {
+        opacity: 0.434;
+        fill: url(#pattern);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1880 1253">
+      <image width="1880" height="1253" xlink:href="cover-image.png"/>
+    </pattern>
+  </defs>
+  <rect id="cover_base" data-name="cover base" class="cls-1" width="375" height="158"/>
+  <rect id="cover-2" data-name="cover" class="cls-2" width="375" height="158"/>
+</svg>

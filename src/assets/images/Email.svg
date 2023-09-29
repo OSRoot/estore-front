@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="370" height="104" viewBox="0 0 370 104">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #515c6f;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-2 {
+        font-size: 15px;
+      }
+
+      .cls-3 {
+        font-size: 12px;
+        letter-spacing: 0.07em;
+        opacity: 0.5;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #ff6969;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #727c8e;
+      }
+
+      .cls-5 {
+        stroke: #727c8e;
+        stroke-width: 0.2px;
+      }
+
+      .cls-7 {
+        filter: url(#Rectangle_33);
+      }
+    </style>
+    <filter id="Rectangle_33" x="0" y="0" width="370" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Email" transform="translate(2.5 -378.5)">
+    <g class="cls-7" transform="matrix(1, 0, 0, 1, -2.5, 378.5)">
+      <rect id="Rectangle_33-2" data-name="Rectangle 33" class="cls-1" width="325" height="59" rx="10" transform="translate(22.5 14.5)"/>
+    </g>
+    <text id="janedoe123_email.com" data-name="janedoe123@email.com" class="cls-2" transform="translate(77 437)"><tspan x="0" y="0">janedoe123@email.com</tspan></text>
+    <text id="EMAIL-2" data-name="EMAIL" class="cls-3" transform="translate(77 417)"><tspan x="0" y="0">EMAIL</tspan></text>
+    <line id="Line_22" data-name="Line 22" class="cls-4" y2="15" transform="translate(237.5 424.5)"/>
+    <g id="_001-mail" data-name="001-mail" transform="translate(38 348)">
+      <g id="Group_114" data-name="Group 114" transform="translate(0 68)">
+        <g id="Group_113" data-name="Group 113" transform="translate(0 0)">
+          <path id="Path_64" data-name="Path 64" class="cls-5" d="M16.83,68H2.234A2.237,2.237,0,0,0,0,70.234v9.532A2.237,2.237,0,0,0,2.234,82h14.6a2.237,2.237,0,0,0,2.234-2.234V70.234A2.237,2.237,0,0,0,16.83,68Zm.745,11.766a.746.746,0,0,1-.745.745H2.234a.746.746,0,0,1-.745-.745V70.234a.746.746,0,0,1,.745-.745h14.6a.746.746,0,0,1,.745.745Z" transform="translate(0 -68)"/>
+        </g>
+      </g>
+      <g id="Group_116" data-name="Group 116" transform="translate(0.727 68.929)">
+        <g id="Group_115" data-name="Group 115" transform="translate(0 0)">
+          <path id="Path_65" data-name="Path 65" class="cls-6" d="M36.243,92.937l-7.916,5.888-7.916-5.888-.889,1.2,8.805,6.549,8.805-6.549Z" transform="translate(-19.522 -92.937)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

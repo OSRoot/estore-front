@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="231" height="31" viewBox="0 0 231 31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #ff6969;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-5 {
+        fill: #727c8e;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="231" height="31"/>
+    </clipPath>
+  </defs>
+  <g id="toggle" class="cls-2">
+    <g id="Group_23" data-name="Group 23" transform="translate(-67 -411)">
+      <g id="Group_20" data-name="Group 20" transform="translate(47 27)">
+        <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-3" width="78" height="31" rx="15.5" transform="translate(20 384)"/>
+        <text id="Product" class="cls-4" transform="translate(33 405)"><tspan x="0" y="0">Product</tspan></text>
+      </g>
+      <text id="Details" class="cls-5" transform="translate(188 432)"><tspan x="-22.354" y="0">Details</tspan></text>
+      <text id="Reviews" class="cls-5" transform="translate(298 432)"><tspan x="-52.244" y="0">Reviews</tspan></text>
+    </g>
+  </g>
+</svg>

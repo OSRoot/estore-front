@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="218" viewBox="0 0 160 218">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #515c6f;
+      }
+
+      .cls-4 {
+        font-size: 15px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-5 {
+        font-size: 12px;
+      }
+
+      .cls-5, .cls-7 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        fill: #ff6969;
+      }
+
+      .cls-7 {
+        font-size: 9px;
+      }
+
+      .cls-8 {
+        fill: url(#pattern);
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_3);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="160" height="218"/>
+    </clipPath>
+    <filter id="Rectangle_3" x="-22.5" y="-14.5" width="205" height="263" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 99 133">
+      <image width="99" height="133" xlink:href="asset1-image.png"/>
+    </pattern>
+  </defs>
+  <g class="cls-2">
+    <g id="Repeat_Grid_25" data-name="Repeat Grid 25" class="cls-2">
+      <g transform="translate(-334 -721)">
+        <g id="_1" data-name="1" class="cls-2" transform="translate(334 721)">
+          <g id="_1-2" data-name="1" transform="translate(-25 -506)">
+            <g class="cls-9" transform="matrix(1, 0, 0, 1, 25, 506)">
+              <rect id="Rectangle_3-2" data-name="Rectangle 3" class="cls-3" width="160" height="218" rx="10"/>
+            </g>
+            <text id="V_Neck_Shirt_-_Pink" data-name="V Neck Shirt - Pink" class="cls-4" transform="translate(35 693.5)"><tspan x="0" y="0">V Neck Shirt - Pink</tspan></text>
+            <text id="_24.99" data-name="$24.99" class="cls-5" transform="translate(35 710.782)"><tspan x="0" y="0">$24.99</tspan></text>
+            <g id="rating" transform="translate(-3 415.901)">
+              <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-6" width="33" height="16.099" rx="8.05" transform="translate(148 281)"/>
+              <path id="Path_12" data-name="Path 12" class="cls-3" d="M58.237,70.811l2.618,1.662-.693-3.135,2.311-2.108-3.047-.275L58.237,64l-1.19,2.955L54,67.231l2.311,2.108-.693,3.135Z" transform="translate(98.237 220.389)"/>
+              <text id="_4.9" data-name="4.9" class="cls-7" transform="translate(169.252 292.237)"><tspan x="-6.396" y="0">4.9</tspan></text>
+            </g>
+            <rect id="Image_13" data-name="Image 13" class="cls-8" width="99" height="133" transform="translate(54 526)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

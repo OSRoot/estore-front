@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.005" height="20.402" viewBox="0 0 21.005 20.402">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #ff6969;
+        stroke: #ff6969;
+        stroke-width: 0.4px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="21.005" height="20.402"/>
+    </clipPath>
+  </defs>
+  <g id="Cart" class="cls-2">
+    <path id="Cart-2" data-name="Cart" class="cls-3" d="M93.4,81.942H78.48l-.859-2.02a.706.706,0,0,0-.488-.411l-2.767-.651a.706.706,0,0,0-.323,1.374l2.419.569,6.193,14.559a2.333,2.333,0,1,0,4.179.235h2.541a2.333,2.333,0,1,0,2.148-1.422l-7.835.011-.966-2.272H93.4a.706.706,0,0,0,.706-.706V82.647A.706.706,0,0,0,93.4,81.942ZM91.525,95.587a.922.922,0,1,1-.922.922A.922.922,0,0,1,91.525,95.587Zm-6.834,0a.922.922,0,1,1-.922.922A.922.922,0,0,1,84.69,95.587Zm8-9.364H88.014a.706.706,0,0,0,0,1.411H92.69V90.5H82.122l-3.042-7.15H92.69Z" transform="translate(-73.297 -78.639)"/>
+  </g>
+</svg>

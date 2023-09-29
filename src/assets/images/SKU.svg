@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="36" viewBox="0 0 94 36">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #515c6f;
+      }
+
+      .cls-1 {
+        font-size: 12px;
+        font-family: SegoeUI, Segoe UI;
+        letter-spacing: 0.07em;
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g id="SKU" transform="translate(-35 -419)">
+    <text id="Page_Title" data-name="Page Title" class="cls-1" transform="translate(129 432)"><tspan x="-23.26" y="0">SKU</tspan></text>
+    <text id="_0590458902809" data-name="0590458902809" class="cls-2" transform="translate(129 451)"><tspan x="-93.974" y="0">0590458902809</tspan></text>
+  </g>
+</svg>

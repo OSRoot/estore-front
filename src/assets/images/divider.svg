@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350" height="86.5" viewBox="0 0 350 86.5">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #ff6969;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-6 {
+        font-size: 12px;
+      }
+
+      .cls-2, .cls-7 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.06em;
+      }
+
+      .cls-4 {
+        stroke: #ff6969;
+      }
+
+      .cls-5, .cls-7 {
+        fill: #515c6f;
+      }
+
+      .cls-5 {
+        font-size: 10px;
+        letter-spacing: 0.07em;
+        opacity: 0.5;
+      }
+
+      .cls-5, .cls-6 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-6 {
+        fill: #727c8e;
+      }
+
+      .cls-7 {
+        font-size: 20px;
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke: #727c8e;
+        opacity: 0.15;
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_4);
+      }
+    </style>
+    <filter id="Rectangle_4" x="155" y="10.5" width="195" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#ff6969" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="divider" transform="translate(-20 -531.5)">
+    <g id="button" transform="translate(170 -49)">
+      <g class="cls-9" transform="matrix(1, 0, 0, 1, -150, 580.5)">
+        <rect id="Rectangle_4-2" data-name="Rectangle 4" class="cls-1" width="165" height="46" rx="23" transform="translate(170 20.5)"/>
+      </g>
+      <text id="CHECKOUT" class="cls-2" transform="translate(87 629)"><tspan x="-33.923" y="0">CHECKOUT</tspan></text>
+      <g id="Group_16" data-name="Group 16" transform="translate(13.734 219.063)">
+        <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-3" width="28.797" height="29.62" rx="14.399" transform="translate(134.266 389.937)"/>
+        <path id="Path_11" data-name="Path 11" class="cls-4" d="M26.582,16.758v0a.82.82,0,0,0-.252-.592h0l-4.937-4.937,0,0a.822.822,0,1,0-1.105,1.218L24.6,16.758,20.23,21.125h0a.823.823,0,0,0,1.163,1.163h0l4.937-4.937h0a.82.82,0,0,0,.252-.592Z" transform="translate(125.785 387.987)"/>
+      </g>
+    </g>
+    <g id="details">
+      <text id="TOTAL" class="cls-5" transform="translate(25 557)"><tspan x="0" y="0">TOTAL</tspan></text>
+      <text id="Free_Domestic_Shipping" data-name="Free Domestic Shipping" class="cls-6" transform="translate(25 600)"><tspan x="0" y="0">Free Domestic Shipping</tspan></text>
+      <text id="_81.57" data-name="$81.57" class="cls-7" transform="translate(25 582)"><tspan x="0" y="0">$81.57</tspan></text>
+    </g>
+    <line id="Line_4" data-name="Line 4" class="cls-8" x2="335" transform="translate(20 532)"/>
+  </g>
+</svg>

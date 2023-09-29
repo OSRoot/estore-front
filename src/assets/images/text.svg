@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="252" height="363" viewBox="0 0 252 363">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #515c6f;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-1 {
+        font-size: 30px;
+      }
+
+      .cls-2 {
+        font-size: 15px;
+      }
+
+      .cls-3, .cls-6, .cls-7 {
+        fill: #ff6969;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 12px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+      }
+
+      .cls-6, .cls-7 {
+        stroke: #ff6969;
+      }
+
+      .cls-7 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-8 {
+        filter: url(#base);
+      }
+    </style>
+    <filter id="base" x="28" y="287" width="195" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#ff6969" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="text" transform="translate(-62 -184)">
+    <g id="text-2" data-name="text" transform="translate(0 19)">
+      <text id="checkout" class="cls-1" transform="translate(188 326)"><tspan x="-90.059" y="0">Order Placed!</tspan></text>
+      <text id="Your_order_was_placed_successfully._For_more_details_check_All_My_Orders_page_under_Profile_tab" data-name="Your order was placed successfully. For more details, check All My Orders page under Profile tab" class="cls-2" transform="translate(62 347)"><tspan x="10.717" y="16">Your order was placed successfully. </tspan><tspan x="2.44" y="38">For more details, check All My Orders </tspan><tspan x="51.967" y="60">page under Profile tab</tspan></text>
+    </g>
+    <g id="button" transform="translate(85 -120)">
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, -23, 304)">
+        <rect id="base-2" data-name="base" class="cls-3" width="165" height="46" rx="23" transform="translate(43 297)"/>
+      </g>
+      <text id="MY_ORDERS" data-name="MY ORDERS" class="cls-4" transform="translate(87 629)"><tspan x="-37.283" y="0">MY ORDERS</tspan></text>
+      <g id="icon" transform="translate(13.734 219.063)">
+        <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-5" width="28.797" height="29.62" rx="14.399" transform="translate(134.266 389.937)"/>
+        <path id="Path_11" data-name="Path 11" class="cls-6" d="M26.582,16.758v0a.82.82,0,0,0-.252-.592h0l-4.937-4.937,0,0a.822.822,0,1,0-1.105,1.218L24.6,16.758,20.23,21.125h0a.823.823,0,0,0,1.163,1.163h0l4.937-4.937h0a.82.82,0,0,0,.252-.592Z" transform="translate(125.785 387.987)"/>
+      </g>
+    </g>
+    <g id="icon-2" data-name="icon" transform="translate(0 11)">
+      <circle id="Ellipse_17" data-name="Ellipse 17" class="cls-5" cx="50.5" cy="50.5" r="50.5" transform="translate(137 173)"/>
+      <path id="Path_23" data-name="Path 23" class="cls-7" d="M40.861,29.806v0a1.667,1.667,0,0,0-.512-1.2h0L15.6,4.59l0,0a1.672,1.672,0,1,0-2.247,2.476l23.48,22.734-8.88,8.88h0a1.673,1.673,0,0,0,2.365,2.365h0L40.35,31.014h0a1.667,1.667,0,0,0,.512-1.2Z" transform="translate(210.551 197.968) rotate(90)"/>
+    </g>
+  </g>
+</svg>

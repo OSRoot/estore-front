@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71.82" height="38.823" viewBox="0 0 71.82 38.823">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #ff6969;
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+        letter-spacing: 0.04em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="71.82" height="38.823"/>
+    </clipPath>
+  </defs>
+  <g id="_5" data-name="5" class="cls-2">
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-3" width="71.82" height="38.823" rx="10"/>
+    <text id="_4.5" data-name="4.5" class="cls-4" transform="translate(35.529 25)"><tspan x="-10.312" y="0">4.5</tspan></text>
+  </g>
+</svg>

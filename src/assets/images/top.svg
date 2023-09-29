@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="223" viewBox="0 0 420 223">
+  <defs>
+    <style>
+      .cls-1, .cls-12 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-2 {
+        fill: #ff6969;
+      }
+
+      .cls-3, .cls-4, .cls-9 {
+        fill: #515c6f;
+      }
+
+      .cls-10, .cls-3, .cls-9 {
+        font-size: 15px;
+      }
+
+      .cls-10, .cls-3 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-4, .cls-6 {
+        font-size: 12px;
+      }
+
+      .cls-4 {
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-5 {
+        fill: #b7e6e6;
+      }
+
+      .cls-6 {
+        fill: #69bcbc;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-6, .cls-9 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke: #727c8e;
+        opacity: 0.1;
+      }
+
+      .cls-8 {
+        fill: url(#pattern);
+      }
+
+      .cls-11 {
+        fill: #727c8e;
+        opacity: 0.2;
+      }
+
+      .cls-13, .cls-14 {
+        stroke: none;
+      }
+
+      .cls-14 {
+        fill: #727c8e;
+      }
+
+      .cls-15 {
+        filter: url(#Rectangle_3);
+      }
+
+      .cls-16 {
+        filter: url(#Ellipse_12);
+      }
+
+      .cls-17 {
+        filter: url(#base);
+      }
+    </style>
+    <filter id="base" x="0" y="0" width="420" height="223" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#e7eaf0" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_12" x="325.5" y="32.5" width="70" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-color="#b7e6e6" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="20" y="94" width="114" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-3"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 87 87">
+      <image width="87" height="87" xlink:href="top-image.png"/>
+    </pattern>
+  </defs>
+  <g id="top" transform="translate(22.5 14.5)">
+    <g class="cls-17" transform="matrix(1, 0, 0, 1, -22.5, -14.5)">
+      <rect id="base-2" data-name="base" class="cls-1" width="375" height="178" transform="translate(22.5 14.5)"/>
+    </g>
+    <path id="back" class="cls-2" d="M30.286,20v0a1.281,1.281,0,0,0-.393-.925h0l-7.714-7.714,0,0a1.285,1.285,0,1,0-1.727,1.9L27.185,20,20.36,26.822h0a1.285,1.285,0,0,0,1.818,1.818h0l7.714-7.714h0A1.281,1.281,0,0,0,30.286,20Z" transform="translate(50.286 65) rotate(-180)"/>
+    <g id="sender" transform="translate(-91 -8)">
+      <text id="Smiley_s_Store" data-name="Smiley’s Store" class="cls-3" transform="translate(142 52)"><tspan x="0" y="0">Smiley’s Store</tspan></text>
+      <text id="Active" class="cls-4" transform="translate(142 67)"><tspan x="0" y="0">Active</tspan></text>
+    </g>
+    <g id="icon" transform="translate(296 -146)">
+      <g class="cls-16" transform="matrix(1, 0, 0, 1, -318.5, 131.5)">
+        <circle id="Ellipse_12-2" data-name="Ellipse 12" class="cls-5" cx="17" cy="17" r="17" transform="translate(343.5 44.5)"/>
+      </g>
+      <text id="SS" class="cls-6" transform="translate(41.983 196.751)"><tspan x="-6.967" y="0">SS</tspan></text>
+    </g>
+    <line id="Line_4" data-name="Line 4" class="cls-7" x2="335" transform="translate(20 79)"/>
+    <g id="item" transform="translate(-5 -302)">
+      <g id="pic" transform="translate(0 -110)">
+        <g class="cls-15" transform="matrix(1, 0, 0, 1, -17.5, 397.5)">
+          <rect id="Rectangle_3-2" data-name="Rectangle 3" class="cls-1" width="69" height="69" rx="34.5" transform="translate(42.5 108.5)"/>
+        </g>
+        <rect id="scarf_PNG48" class="cls-8" width="53.82" height="53.82" transform="translate(29.83 512.9)"/>
+      </g>
+      <text id="Red_Cotton_Scarf_2ft_Dark_Red" data-name="Red Cotton Scarf, 2ft, Dark Red" class="cls-3" transform="translate(109 435)"><tspan x="0" y="0">Red Cotton Scarf, 2ft, Dark Red</tspan></text>
+      <text id="Order:_1084028" data-name="Order: #1084028" class="cls-9" transform="translate(109 415)"><tspan x="0" y="0">Order: #1084028</tspan></text>
+      <text id="_11.00" data-name="$11.00" class="cls-10" transform="translate(109 457)"><tspan x="0" y="0">$11.00</tspan></text>
+    </g>
+    <g id="more" transform="translate(0 -44)">
+      <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-11" cx="9" cy="9" r="9" transform="translate(337 164)"/>
+      <g id="Union_1" data-name="Union 1" class="cls-12" transform="translate(1327.171 -813.414) rotate(-45)">
+        <path class="cls-13" d="M -1389.999633789062 5.50029993057251 L -1394.000122070312 5.50029993057251 C -1394.275756835938 5.50029993057251 -1394.5 5.276050090789795 -1394.5 5.000400066375732 C -1394.5 4.724259853363037 -1394.275756835938 4.499599933624268 -1394.000122070312 4.499599933624268 L -1391.00048828125 4.499599933624268 L -1390.50048828125 4.499599933624268 L -1390.50048828125 3.999599933624268 L -1390.50048828125 0.9998999834060669 C -1390.50048828125 0.7242499589920044 -1390.275756835938 0.4999999701976776 -1389.999633789062 0.4999999701976776 C -1389.723999023438 0.4999999701976776 -1389.499755859375 0.7242499589920044 -1389.499755859375 0.9998999834060669 L -1389.499755859375 5.000400066375732 C -1389.499755859375 5.276050090789795 -1389.723999023438 5.50029993057251 -1389.999633789062 5.50029993057251 Z"/>
+        <path class="cls-14" d="M -1389.999633789062 5.00029993057251 L -1389.999755859375 5.000400066375732 L -1390.00048828125 0.9998999834060669 L -1390.00048828125 4.999599933624268 L -1394.000122070312 5.00029993057251 L -1389.999633789062 5.00029993057251 M -1389.999633789062 6.00029993057251 L -1394.000122070312 6.00029993057251 C -1394.551879882812 6.00029993057251 -1395 5.55210018157959 -1395 5.000400066375732 C -1395 4.447800159454346 -1394.551879882812 3.999599933624268 -1394.000122070312 3.999599933624268 L -1391.00048828125 3.999599933624268 L -1391.00048828125 0.9998999834060669 C -1391.00048828125 0.4472999572753906 -1390.55224609375 -3.471374654395731e-08 -1389.999633789062 -3.471374654395731e-08 C -1389.447875976562 -3.471374654395731e-08 -1388.999755859375 0.4472999572753906 -1388.999755859375 0.9998999834060669 L -1388.999755859375 5.000400066375732 C -1388.999755859375 5.55210018157959 -1389.447875976562 6.00029993057251 -1389.999633789062 6.00029993057251 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

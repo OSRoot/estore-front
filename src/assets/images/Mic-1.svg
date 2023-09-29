@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="44" viewBox="0 0 375 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #515c6f;
+        font-size: 15px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-5 {
+        fill: #727c8e;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="375" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Mic" class="cls-2">
+    <rect id="base" class="cls-3" width="375" height="44"/>
+    <g id="text" transform="translate(10.136 -407)">
+      <text id="Tap_hold_to_search_with_voice" data-name="Tap &amp; hold to search with voice" class="cls-4" transform="translate(188 434)"><tspan x="-97.665" y="0">Tap &amp; hold to search with voice</tspan></text>
+      <path id="Path_24" data-name="Path 24" class="cls-5" d="M135.438,10.094h-1.063a4.933,4.933,0,0,1-9.562,0H123.75a5.957,5.957,0,0,0,5.312,4.757v1.086h-.531a.531.531,0,1,0,0,1.062h2.125a.531.531,0,1,0,0-1.062h-.531V14.851A5.957,5.957,0,0,0,135.438,10.094Zm-5.844,2.656a3.719,3.719,0,0,0,3.719-3.719V3.719a3.719,3.719,0,1,0-7.437,0V9.031A3.719,3.719,0,0,0,129.594,12.75Zm-2.656-9.031a2.656,2.656,0,1,1,5.313,0V9.031a2.656,2.656,0,1,1-5.312,0Z" transform="translate(-56.886 420.802)"/>
+    </g>
+  </g>
+</svg>

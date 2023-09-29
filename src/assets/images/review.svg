@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="353" height="143" viewBox="0 0 353 143">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #515c6f;
+      }
+
+      .cls-2, .cls-4 {
+        font-size: 14px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-4 {
+        opacity: 0.5;
+      }
+
+      .cls-5 {
+        fill: #b7e6e6;
+      }
+
+      .cls-6 {
+        fill: #85cbcb;
+        font-size: 22px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-8 {
+        fill: url(#pattern);
+      }
+
+      .cls-9 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-10 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-11 {
+        fill: url(#pattern-4);
+      }
+
+      .cls-12 {
+        fill: url(#pattern-5);
+      }
+
+      .cls-13 {
+        fill: #ff6969;
+      }
+
+      .cls-14 {
+        fill: #727c8e;
+        opacity: 0.3;
+      }
+
+      .cls-15 {
+        filter: url(#Ellipse_12);
+      }
+    </style>
+    <filter id="Ellipse_12" x="0" y="0" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#b7e6e6" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="255" height="44"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 44 44">
+      <image width="44" height="44" xlink:href="review-image.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 44 44">
+      <image width="44" height="44" xlink:href="review-image2.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 44 44">
+      <image width="44" height="44" xlink:href="review-image3.png"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 44 44">
+      <image width="44" height="44" xlink:href="review-image4.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 44 44">
+      <image width="44" height="44" xlink:href="review-image5.png"/>
+    </pattern>
+  </defs>
+  <g id="review" transform="translate(-2 -164)">
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt" class="cls-2" transform="translate(100 215)"><tspan x="0" y="15">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="35">consectetur adipiscing elit, sed </tspan></text>
+    <text id="Jane_Doe" data-name="Jane Doe" class="cls-3" transform="translate(100 207)"><tspan x="0" y="0">Jane Doe</tspan></text>
+    <text id="_10_Oct_2018" data-name="10 Oct, 2018" class="cls-4" transform="translate(355 191)"><tspan x="-70.636" y="0">10 Oct, 2018</tspan></text>
+    <g id="icon" transform="translate(-5)">
+      <g class="cls-15" transform="matrix(1, 0, 0, 1, 7, 164)">
+        <circle id="Ellipse_12-2" data-name="Ellipse 12" class="cls-5" cx="30" cy="30" r="30" transform="translate(18 12)"/>
+      </g>
+      <text id="JD" class="cls-6" transform="translate(55 214)"><tspan x="-13.449" y="0">JD</tspan></text>
+    </g>
+    <g id="Repeat_Grid_14" data-name="Repeat Grid 14" class="cls-7" transform="translate(100 263)">
+      <g transform="translate(-100 -263)">
+        <rect id="pic" class="cls-8" width="44" height="44" transform="translate(100 263)"/>
+        <rect id="pic-2" data-name="pic" class="cls-9" width="44" height="44" transform="translate(153 263)"/>
+        <rect id="pic-3" data-name="pic" class="cls-10" width="44" height="44" transform="translate(206 263)"/>
+        <rect id="pic-4" data-name="pic" class="cls-11" width="44" height="44" transform="translate(258 263)"/>
+        <rect id="pic-5" data-name="pic" class="cls-12" width="44" height="44" transform="translate(311 263)"/>
+      </g>
+    </g>
+    <g id="Rating" transform="translate(100 176)">
+      <path id="Path_18" data-name="Path 18" class="cls-13" d="M60,73.646,63.708,76l-.981-4.44L66,68.575l-4.315-.39L60,64l-1.685,4.185L54,68.575l3.273,2.985L56.292,76Z" transform="translate(-54 -64)"/>
+      <path id="Path_19" data-name="Path 19" class="cls-13" d="M60,73.646,63.708,76l-.981-4.44L66,68.575l-4.315-.39L60,64l-1.685,4.185L54,68.575l3.273,2.985L56.292,76Z" transform="translate(-42 -64)"/>
+      <path id="Path_20" data-name="Path 20" class="cls-13" d="M60,73.646,63.708,76l-.981-4.44L66,68.575l-4.315-.39L60,64l-1.685,4.185L54,68.575l3.273,2.985L56.292,76Z" transform="translate(-30 -64)"/>
+      <path id="Path_21" data-name="Path 21" class="cls-13" d="M60,73.646,63.708,76l-.981-4.44L66,68.575l-4.315-.39L60,64l-1.685,4.185L54,68.575l3.273,2.985L56.292,76Z" transform="translate(-18 -64)"/>
+      <path id="Path_22" data-name="Path 22" class="cls-14" d="M60,73.646,63.708,76l-.981-4.44L66,68.575l-4.315-.39L60,64l-1.685,4.185L54,68.575l3.273,2.985L56.292,76Z" transform="translate(-6 -64)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="33" viewBox="0 0 35 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff6969;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 10px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        filter: url(#indicator_base);
+      }
+    </style>
+    <filter id="indicator_base" x="0" y="0" width="35" height="33" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#ff6969" flood-opacity="0.404"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Indicator" transform="translate(9 5)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -9, -5)">
+      <rect id="indicator_base-2" data-name="indicator base" class="cls-1" width="17" height="15" rx="7" transform="translate(9 5)"/>
+    </g>
+    <text id="_7" data-name="7" class="cls-2" transform="translate(6 11)"><tspan x="0" y="0">7</tspan></text>
+  </g>
+</svg>

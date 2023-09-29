@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1840" height="1130" viewBox="0 0 1840 1130">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cecece;
+      }
+
+      .cls-2, .cls-5, .cls-8 {
+        fill: #959595;
+      }
+
+      .cls-2 {
+        font-size: 32px;
+      }
+
+      .cls-13, .cls-2, .cls-8 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-12, .cls-2, .cls-3, .cls-8 {
+        letter-spacing: -0.003em;
+      }
+
+      .cls-3 {
+        fill: #727272;
+      }
+
+      .cls-3, .cls-8 {
+        font-size: 40px;
+      }
+
+      .cls-12, .cls-3 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-15, .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-4, .cls-6 {
+        stroke: #959595;
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        fill: #a6adb4;
+      }
+
+      .cls-7 {
+        stroke: #b1b1b1;
+      }
+
+      .cls-9 {
+        fill: #ff26be;
+      }
+
+      .cls-10 {
+        fill: #2e001f;
+      }
+
+      .cls-11 {
+        fill: #ffd9f2;
+      }
+
+      .cls-12 {
+        fill: #5d5d5d;
+        font-size: 72px;
+      }
+
+      .cls-13 {
+        font-weight: 400;
+      }
+
+      .cls-14 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Intro" transform="translate(-467 2727)">
+    <rect id="Rectangle" class="cls-1" width="1840" height="1130" transform="translate(467 -2727)"/>
+    <text id="First_save_this_file_as_a_cloud_document._Then_from_the_share_button_select_Invite_to_Edit_to_share_this_kit_with_your_team._They_ll_be_able_to_bring_in_all_the_assets_colors_character_styles_and_components_from_this_file_to_use_in_any_of_their_XD_d" data-name="First save this file as a cloud document. Then from the share button, select “Invite to Edit” to share this kit with your team. They’ll be able to bring in all the assets (colors, character styles, and components) from this file to use in any of their XD d" class="cls-2" transform="translate(760 -1922)"><tspan x="0" y="29">First save this file as a cloud document. Then from the share button, select “Invite to Edit” </tspan><tspan x="0" y="74">to share this kit with your team. They’ll be able to bring in all the assets (colors, character </tspan><tspan x="0" y="119">styles, and components) from this file to use in any of their XD documents. Plus, when you </tspan><tspan x="0" y="164">make changes to the assets in this file, your team will be notified of the changes. The team </tspan><tspan x="0" y="209">member can preview and accept the updates to keep their designs always in sync.</tspan></text>
+    <text id="Use_this_kit_as_a_design_system:" data-name="Use this kit as a design system:" class="cls-3" transform="translate(760 -1983)"><tspan x="0" y="36">Use this kit as a design system:</tspan></text>
+    <text id="All_of_the_fonts_featured_in_this_file_are_from_Adobe_Fonts_and_should_sync_automatically." data-name="All of the fonts featured in this file are from Adobe Fonts and should sync automatically." class="cls-2" transform="translate(1533 -2273)"><tspan x="0" y="29">All of the fonts featured in this file are from </tspan><tspan x="0" y="74">Adobe Fonts and should sync automatically.</tspan></text>
+    <text id="Fonts:" class="cls-3" transform="translate(1533 -2333)"><tspan x="0" y="36">Fonts:</tspan></text>
+    <g id="Fonts_Icon" data-name="Fonts Icon" transform="translate(671 -1201)">
+      <g id="Rectangle_446" data-name="Rectangle 446" class="cls-4" transform="translate(726 -1123)">
+        <rect class="cls-14" width="80" height="80"/>
+        <rect class="cls-15" x="2" y="2" width="76" height="76"/>
+      </g>
+      <rect id="Rectangle_447" data-name="Rectangle 447" class="cls-5" width="52" height="4" transform="translate(740 -1109)"/>
+      <rect id="Rectangle_448" data-name="Rectangle 448" class="cls-5" width="4" height="48" transform="translate(764 -1105)"/>
+    </g>
+    <text id="Use_the_assets_panel_to_reuse_components_change_colors_or_change_fonts._Changes_made_in_this_panel_will_be_reflected_in_the_artboards." data-name="Use the assets panel to reuse components, change colors, or change fonts. Changes made in this panel will be reflected in the artboards." class="cls-2" transform="translate(760 -2273)"><tspan x="0" y="29">Use the assets panel to reuse </tspan><tspan x="0" y="74">components, change colors, or </tspan><tspan x="0" y="119">change fonts. Changes made in </tspan><tspan x="0" y="164">this panel will be reflected in </tspan><tspan x="0" y="209">the artboards.</tspan></text>
+    <text id="Assets_Panel:" data-name="Assets Panel:" class="cls-3" transform="translate(760 -2333)"><tspan x="0" y="36">Assets Panel:</tspan></text>
+    <g id="Assets_Icon" data-name="Assets Icon">
+      <g id="Rectangle_443" data-name="Rectangle 443" class="cls-4" transform="translate(621 -2324)">
+        <rect class="cls-14" width="80" height="80"/>
+        <rect class="cls-15" x="2" y="2" width="76" height="76"/>
+      </g>
+      <g id="Rectangle_444" data-name="Rectangle 444" class="cls-6" transform="translate(635 -2310)">
+        <rect class="cls-14" width="52" height="4"/>
+        <rect class="cls-15" x="2" y="2" width="48"/>
+      </g>
+    </g>
+    <line id="Divider" class="cls-7" x2="1587" transform="translate(591.5 -2407.5)"/>
+    <text id="Built_for_Adobe_XD" data-name="Built for Adobe XD" class="cls-8" transform="translate(687 -2511)"><tspan x="0" y="36">Built for Adobe XD</tspan></text>
+    <g id="App_Icon" data-name="App Icon" transform="translate(594 -2520)">
+      <path id="Path_148" data-name="Path 148" class="cls-9" d="M57.482,68.105H12.37A12.359,12.359,0,0,1,0,55.736V12.37A12.359,12.359,0,0,1,12.37,0H57.482a12.359,12.359,0,0,1,12.37,12.37V55.736A12.359,12.359,0,0,1,57.482,68.105Z"/>
+      <path id="Path_149" data-name="Path 149" class="cls-10" d="M63.466,72.284h-42.9A10.583,10.583,0,0,1,10,61.719V20.565A10.583,10.583,0,0,1,20.565,10H63.436A10.564,10.564,0,0,1,74,20.565V61.69A10.546,10.546,0,0,1,63.466,72.284Z" transform="translate(-7.09 -7.09)"/>
+      <g id="Xd" transform="translate(13.041 16.561)">
+        <path id="Path_150" data-name="Path 150" class="cls-11" d="M59.386,72.209l8.149,15.658c.146.233.058.466-.175.466H62.3a.571.571,0,0,1-.611-.378c-1.863-3.842-3.755-7.684-5.7-11.817h-.058c-1.746,3.9-3.667,8-5.53,11.846a.559.559,0,0,1-.524.32h-4.8c-.291,0-.32-.233-.175-.407L52.867,72.7,45.154,57.337a.235.235,0,0,1,.175-.407h5.006a.458.458,0,0,1,.524.32c1.834,3.842,3.7,7.8,5.443,11.671h.058c1.688-3.842,3.551-7.829,5.355-11.642.146-.233.233-.378.524-.378h4.686c.233,0,.32.175.175.407Z" transform="translate(-44.806 -56.9)"/>
+        <path id="Path_151" data-name="Path 151" class="cls-11" d="M127.8,77.024c0-6.781,4.511-12.078,11.671-12.078a12.906,12.906,0,0,1,1.513.058V57.291a.292.292,0,0,1,.291-.291h4.6c.233,0,.291.087.291.233V83.951a20.729,20.729,0,0,0,.146,2.852c0,.175-.058.233-.233.32a17.337,17.337,0,0,1-7.451,1.688C132.311,88.841,127.8,84.941,127.8,77.024Zm13.184-7.451a4.4,4.4,0,0,0-1.688-.291c-3.667,0-6.228,2.823-6.228,7.509,0,5.355,2.619,7.509,5.908,7.509a5.491,5.491,0,0,0,2.008-.32Z" transform="translate(-103.645 -56.971)"/>
+      </g>
+    </g>
+    <text id="eComm_UI_Kit_by_Nimasha_Perera" data-name="eComm UI Kit by Nimasha Perera" class="cls-12" transform="translate(591 -2624)"><tspan x="0" y="65">eComm UI Kit </tspan><tspan class="cls-13" y="65">by Nimasha Perera</tspan></text>
+  </g>
+</svg>

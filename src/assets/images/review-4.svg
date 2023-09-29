@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="353" height="143" viewBox="0 0 353 143">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #515c6f;
+      }
+
+      .cls-1, .cls-3 {
+        font-size: 14px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-3 {
+        opacity: 0.5;
+      }
+
+      .cls-4 {
+        fill: #c4e6b7;
+      }
+
+      .cls-5 {
+        fill: #85cbcb;
+        font-size: 22px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: #ff6969;
+      }
+
+      .cls-8 {
+        fill: #727c8e;
+        opacity: 0.3;
+      }
+
+      .cls-9 {
+        filter: url(#Ellipse_12);
+      }
+    </style>
+    <filter id="Ellipse_12" x="0" y="0" width="96" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#b7e6e6" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="review" transform="translate(-2 -164)">
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt" class="cls-1" transform="translate(100 215)"><tspan x="0" y="15">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="35">consectetur adipiscing elit, sed </tspan></text>
+    <text id="Sam_Smith" data-name="Sam Smith" class="cls-2" transform="translate(100 207)"><tspan x="0" y="0">Sam Smith</tspan></text>
+    <text id="_7_Sep_2018" data-name="7 Sep, 2018" class="cls-3" transform="translate(355 191)"><tspan x="-66.261" y="0">7 Sep, 2018</tspan></text>
+    <g id="icon" transform="translate(-5)">
+      <g class="cls-9" transform="matrix(1, 0, 0, 1, 7, 164)">
+        <circle id="Ellipse_12-2" data-name="Ellipse 12" class="cls-4" cx="30" cy="30" r="30" transform="translate(18 12)"/>
+      </g>
+      <text id="SS" class="cls-5" transform="translate(55 214)"><tspan x="-12.772" y="0">SS</tspan></text>
+    </g>
+    <rect id="pic" class="cls-6" width="44" height="44" transform="translate(100 263)"/>
+    <rect id="pic-2" data-name="pic" class="cls-6" width="44" height="44" transform="translate(153 263)"/>
+    <rect id="pic-3" data-name="pic" class="cls-6" width="44" height="44" transform="translate(206 263)"/>
+    <rect id="pic-4" data-name="pic" class="cls-6" width="44" height="44" transform="translate(258 263)"/>
+    <rect id="pic-5" data-name="pic" class="cls-6" width="44" height="44" transform="translate(311 263)"/>
+    <g id="Rating" transform="translate(100 176)">
+      <path id="Path_18" data-name="Path 18" class="cls-7" d="M60,73.646,63.708,76l-.981-4.44L66,68.575l-4.315-.39L60,64l-1.685,4.185L54,68.575l3.273,2.985L56.292,76Z" transform="translate(-54 -64)"/>
+      <path id="Path_19" data-name="Path 19" class="cls-7" d="M60,73.646,63.708,76l-.981-4.44L66,68.575l-4.315-.39L60,64l-1.685,4.185L54,68.575l3.273,2.985L56.292,76Z" transform="translate(-42 -64)"/>
+      <path id="Path_20" data-name="Path 20" class="cls-7" d="M60,73.646,63.708,76l-.981-4.44L66,68.575l-4.315-.39L60,64l-1.685,4.185L54,68.575l3.273,2.985L56.292,76Z" transform="translate(-30 -64)"/>
+      <path id="Path_21" data-name="Path 21" class="cls-8" d="M60,73.646,63.708,76l-.981-4.44L66,68.575l-4.315-.39L60,64l-1.685,4.185L54,68.575l3.273,2.985L56.292,76Z" transform="translate(-18 -64)"/>
+      <path id="Path_22" data-name="Path 22" class="cls-8" d="M60,73.646,63.708,76l-.981-4.44L66,68.575l-4.315-.39L60,64l-1.685,4.185L54,68.575l3.273,2.985L56.292,76Z" transform="translate(-6 -64)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="28" viewBox="0 0 88 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #515c6f;
+        font-size: 12px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="88" height="28"/>
+    </clipPath>
+  </defs>
+  <g id="tag" class="cls-2">
+    <rect id="Rectangle_34" data-name="Rectangle 34" class="cls-3" width="88" height="28" rx="5"/>
+    <text id="This_is_a_tag" data-name="This is a tag" class="cls-4" transform="translate(10 18)"><tspan x="0" y="0">This is a tag</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="16.099" viewBox="0 0 33 16.099">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #ff6969;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-size: 9px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="33" height="16.099"/>
+    </clipPath>
+  </defs>
+  <g id="rating" class="cls-2">
+    <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-3" width="33" height="16.099" rx="8.05"/>
+    <path id="Path_12" data-name="Path 12" class="cls-4" d="M58.237,70.811l2.618,1.662-.693-3.135,2.311-2.108-3.047-.275L58.237,64l-1.19,2.955L54,67.231l2.311,2.108-.693,3.135Z" transform="translate(-49.763 -60.611)"/>
+    <text id="_4.9" data-name="4.9" class="cls-5" transform="translate(21.252 11.237)"><tspan x="-6.396" y="0">4.9</tspan></text>
+  </g>
+</svg>

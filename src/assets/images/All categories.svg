@@ -1,0 +1,811 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="334" height="869" viewBox="0 0 334 869">
+  <defs>
+    <style>
+      .cls-1, .cls-22 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #ff6969;
+      }
+
+      .cls-19, .cls-3, .cls-6 {
+        font-size: 15px;
+      }
+
+      .cls-17, .cls-19, .cls-3, .cls-6 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-15, .cls-17, .cls-19, .cls-6 {
+        fill: #515c6f;
+      }
+
+      .cls-17, .cls-6 {
+        opacity: 0.5;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-12);
+      }
+
+      .cls-14 {
+        fill: url(#linear-gradient-14);
+      }
+
+      .cls-15 {
+        font-size: 30px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-16 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-17 {
+        font-size: 12px;
+        letter-spacing: 0.07em;
+      }
+
+      .cls-18, .cls-21 {
+        fill: #fff;
+      }
+
+      .cls-20 {
+        fill: #727c8e;
+        opacity: 0.2;
+      }
+
+      .cls-22 {
+        stroke: #727c8e;
+        opacity: 0.1;
+      }
+
+      .cls-23, .cls-24 {
+        stroke: none;
+      }
+
+      .cls-24 {
+        fill: #727c8e;
+      }
+
+      .cls-25 {
+        filter: url(#Rectangle_33-16);
+      }
+
+      .cls-26 {
+        filter: url(#Rectangle_33-15);
+      }
+
+      .cls-27 {
+        filter: url(#Rectangle_33-14);
+      }
+
+      .cls-28 {
+        filter: url(#Rectangle_33-13);
+      }
+
+      .cls-29 {
+        filter: url(#Rectangle_33-12);
+      }
+
+      .cls-30 {
+        filter: url(#Rectangle_33-11);
+      }
+
+      .cls-31 {
+        filter: url(#Rectangle_33-10);
+      }
+
+      .cls-32 {
+        filter: url(#Rectangle_33-9);
+      }
+
+      .cls-33 {
+        filter: url(#Rectangle_33-8);
+      }
+
+      .cls-34 {
+        filter: url(#Rectangle_33-7);
+      }
+
+      .cls-35 {
+        filter: url(#Rectangle_33-6);
+      }
+
+      .cls-36 {
+        filter: url(#Rectangle_33-5);
+      }
+
+      .cls-37 {
+        filter: url(#Rectangle_33-4);
+      }
+
+      .cls-38 {
+        filter: url(#Rectangle_33-3);
+      }
+
+      .cls-39 {
+        filter: url(#Rectangle_33-2);
+      }
+
+      .cls-40 {
+        filter: url(#Rectangle_33);
+      }
+
+      .cls-41 {
+        filter: url(#Union_7);
+      }
+
+      .cls-42 {
+        filter: url(#Ellipse_6-5);
+      }
+
+      .cls-43 {
+        filter: url(#Union_6);
+      }
+
+      .cls-44 {
+        filter: url(#Ellipse_6-4);
+      }
+
+      .cls-45 {
+        filter: url(#Path_68);
+      }
+
+      .cls-46 {
+        filter: url(#Path_67);
+      }
+
+      .cls-47 {
+        filter: url(#Ellipse_6-3);
+      }
+
+      .cls-48 {
+        filter: url(#_004-furniture-and-household);
+      }
+
+      .cls-49 {
+        filter: url(#Ellipse_6-2);
+      }
+
+      .cls-50 {
+        filter: url(#Shoes);
+      }
+
+      .cls-51 {
+        filter: url(#Ellipse_6);
+      }
+
+      .cls-52 {
+        filter: url(#Beauty);
+      }
+
+      .cls-53 {
+        filter: url(#Ellipse_5);
+      }
+
+      .cls-54 {
+        filter: url(#clothes);
+      }
+
+      .cls-55 {
+        filter: url(#Ellipse_1);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="74" height="805"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7676"/>
+      <stop offset="1" stop-color="#ffae4e"/>
+    </linearGradient>
+    <filter id="Ellipse_1" x="-18.5" y="49.5" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#ff6262" flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.386" y1="1.08" x2="0.386" y2="-0.063" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.502"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="clothes" x="10" y="74" width="55.499" height="55.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#ff4e00"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#76baff"/>
+      <stop offset="1" stop-color="#4efff8"/>
+    </linearGradient>
+    <filter id="Ellipse_5" x="-18.5" y="168.5" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-3"/>
+      <feFlood flood-color="#62aaff" flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.518"/>
+    </linearGradient>
+    <filter id="Beauty" x="13" y="194.292" width="48.97" height="54.802" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#0062ff" flood-opacity="0.345"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2fc145"/>
+      <stop offset="1" stop-color="#b4ff4e"/>
+    </linearGradient>
+    <filter id="Ellipse_6" x="-18.5" y="288.5" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-5"/>
+      <feFlood flood-color="#26d555" flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-6" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.525"/>
+    </linearGradient>
+    <filter id="Shoes" x="9" y="321" width="55" height="46.18" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#009b12" flood-opacity="0.518"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-7" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#77a5f8"/>
+      <stop offset="1" stop-color="#d5a3ff"/>
+    </linearGradient>
+    <filter id="Ellipse_6-2" x="-18.5" y="407.5" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-7"/>
+      <feFlood flood-color="#7a71e8" flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_004-furniture-and-household" x="7" y="435" width="59" height="51.264" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-color="#0062ff" flood-opacity="0.345"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-9" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6b15c"/>
+      <stop offset="1" stop-color="#fff84e"/>
+    </linearGradient>
+    <filter id="Ellipse_6-3" x="-18.5" y="526.5" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-9"/>
+      <feFlood flood-color="#d59f26" flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_67" x="8.508" y="568.953" width="56.983" height="39.589" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-color="#ff8900" flood-opacity="0.345"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_68" x="15.817" y="550.617" width="42.366" height="40.935" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-color="#ff8900" flood-opacity="0.345"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-12" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9f6ea3"/>
+      <stop offset="1" stop-color="#ff74a4"/>
+    </linearGradient>
+    <filter id="Ellipse_6-4" x="-18.5" y="645.5" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-12"/>
+      <feFlood flood-color="#834162" flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_6" x="8" y="672.338" width="55.552" height="53.692" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-color="#8b2f61" flood-opacity="0.345"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-14" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#505862"/>
+      <stop offset="1" stop-color="#9d9e9f"/>
+    </linearGradient>
+    <filter id="Ellipse_6-5" x="-18.5" y="764.5" width="110" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-14"/>
+      <feFlood flood-color="#646464" flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_7" x="8.311" y="789.877" width="55.911" height="57.834" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-color="#1e2631" flood-opacity="0.345"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="236.5" height="805"/>
+    </clipPath>
+    <filter id="Rectangle_33" x="75" y="71.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-16"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-2" x="75" y="115.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-17"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-3" x="75" y="159.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-18"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-4" x="75" y="203.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-19"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-5" x="75" y="247.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-20"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-6" x="75" y="291.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-21"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-7" x="75" y="335.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-22"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-8" x="75" y="379.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-23"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-23"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-9" x="75" y="502.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-24"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-24"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-10" x="75" y="546.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-25"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-25"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-11" x="75" y="590.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-26"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-26"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-12" x="75" y="634.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-27"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-27"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-13" x="75" y="678.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-28"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-28"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-14" x="75" y="722.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-29"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-29"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-15" x="75" y="766.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-30"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-30"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-16" x="75" y="810.5" width="281.5" height="89" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-31"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-31"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="All_categories" data-name="All categories" transform="translate(-21 -58)">
+    <g id="Categories_Section" data-name="Categories Section" transform="translate(0 -18)">
+      <g id="Repeat_Grid_5" data-name="Repeat Grid 5" class="cls-2" transform="translate(21 140)">
+        <g transform="translate(-21 -140)">
+          <g id="Apparel">
+            <text id="Apparel-2" data-name="Apparel" class="cls-3" transform="translate(58 226)"><tspan x="-25.818" y="0">Apparel</tspan></text>
+            <g id="icon">
+              <g class="cls-55" transform="matrix(1, 0, 0, 1, 21, 76)">
+                <circle id="Ellipse_1-2" data-name="Ellipse 1" class="cls-4" cx="32.5" cy="32.5" r="32.5" transform="translate(4 64)"/>
+              </g>
+              <g class="cls-54" transform="matrix(1, 0, 0, 1, 21, 76)">
+                <path id="clothes-2" data-name="clothes" class="cls-5" d="M-15.959-114.5a3.278,3.278,0,0,0,.2-1.1,3.268,3.268,0,0,0-.857-2.2,3.27,3.27,0,0,0,.857-2.2,3.268,3.268,0,0,0-.857-2.2,3.27,3.27,0,0,0,.857-2.2,3.3,3.3,0,0,0-3.3-3.3H-31.137v-4.468h-3.3a1.1,1.1,0,0,1-1.1-1.1v-8.862a1.1,1.1,0,0,1,1.1-1.1h10.727l3.556-1.778v-1.517a1.1,1.1,0,0,1,1.1-1.1,1.1,1.1,0,0,0,1.1-1.1,1.1,1.1,0,0,0-1.1-1.1,1.1,1.1,0,0,0-1.1,1.1,1.1,1.1,0,0,1-1.1,1.1,1.1,1.1,0,0,1-1.1-1.1,3.3,3.3,0,0,1,3.3-3.3,3.3,3.3,0,0,1,3.3,3.3,3.3,3.3,0,0,1-2.2,3.109v.607l3.556,1.778H-3.6a1.1,1.1,0,0,1,1.1,1.1v8.862a1.1,1.1,0,0,1-1.1,1.1h-3.3V-115.6a1.1,1.1,0,0,1-1.1,1.1Zm-6.324-26.966a3.3,3.3,0,0,0,3.23,2.65,3.3,3.3,0,0,0,3.231-2.65l-3.231-1.615ZM-38.9-114.5a1.1,1.1,0,0,1-1.1-1.1,1.1,1.1,0,0,1,1.1-1.1h19.849a1.1,1.1,0,0,1,1.1,1.1,1.1,1.1,0,0,1-1.1,1.1Zm0-4.395a1.1,1.1,0,0,1-1.1-1.1,1.1,1.1,0,0,1,1.1-1.1h19.849a1.1,1.1,0,0,1,1.1,1.1,1.1,1.1,0,0,1-1.1,1.1Zm0-4.395a1.1,1.1,0,0,1-1.1-1.1,1.1,1.1,0,0,1,1.1-1.1h19.849a1.1,1.1,0,0,1,1.1,1.1,1.1,1.1,0,0,1-1.1,1.1Z" transform="translate(59 227)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Beauty-2" data-name="Beauty">
+            <text id="Beauty-3" data-name="Beauty" class="cls-6" transform="translate(58 345)"><tspan x="-22.452" y="0">Beauty</tspan></text>
+            <g id="icon-2" data-name="icon" transform="translate(-87 119)">
+              <g class="cls-53" transform="matrix(1, 0, 0, 1, 108, -43)">
+                <circle id="Ellipse_5-2" data-name="Ellipse 5" class="cls-7" cx="32.5" cy="32.5" r="32.5" transform="translate(4 183)"/>
+              </g>
+              <g class="cls-52" transform="matrix(1, 0, 0, 1, 108, -43)">
+                <path id="Beauty-4" data-name="Beauty" class="cls-8" d="M19.211,36.8a1.7,1.7,0,0,1-1.7-1.7V16.688a6.731,6.731,0,0,1,13.461,0V35.1a1.7,1.7,0,0,1-1.7,1.7ZM1.7,36.8A1.7,1.7,0,0,1,0,35.1V26.61A1.7,1.7,0,0,1,1.166,25l.392-10.877A2.628,2.628,0,0,1,3.514,11.7L3.5,1.122A1.33,1.33,0,0,1,3.7.367.814.814,0,0,1,4.381,0a1.261,1.261,0,0,1,.8.338L9.795,4.19a3.517,3.517,0,0,1,1.13,2.421L10.919,11.7a2.626,2.626,0,0,1,1.951,2.422L13.263,25A1.7,1.7,0,0,1,14.43,26.61V35.1a1.7,1.7,0,0,1-1.7,1.7ZM3.573,15.433,3.23,24.908H11.2l-.343-9.475a1.111,1.111,0,0,0-1.1-1.06H4.672A1.111,1.111,0,0,0,3.573,15.433Z" transform="translate(22 195.29)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Shoes-2" data-name="Shoes">
+            <text id="Shoes-3" data-name="Shoes" class="cls-6" transform="translate(58 465)"><tspan x="-19.728" y="0">Shoes</tspan></text>
+            <g id="icon-3" data-name="icon" transform="translate(-173 239)">
+              <g class="cls-51" transform="matrix(1, 0, 0, 1, 194, -163)">
+                <circle id="Ellipse_6-6" data-name="Ellipse 6" class="cls-9" cx="32.5" cy="32.5" r="32.5" transform="translate(4 303)"/>
+              </g>
+              <g class="cls-50" transform="matrix(1, 0, 0, 1, 194, -163)">
+                <path id="Shoes-4" data-name="Shoes" class="cls-10" d="M16,28.18a4.361,4.361,0,0,1-4.01-2.732L6.547,13.072,5.485,27.183a1.072,1.072,0,0,1-1.084,1H3.273a1.078,1.078,0,0,1-1.062-1.127A83.431,83.431,0,0,0,.282,7.609,10.139,10.139,0,0,1,0,6.091,11.74,11.74,0,0,1,1.561.563,1.09,1.09,0,0,1,3.1.174c5.249,3.5,7.692,8.319,10.065,13.678,4.358,9.754,10.037,8.54,10.384,8.714,2.644,0,6.2-1.171,4.1-3.121A41.876,41.876,0,0,1,35.737,23a2.828,2.828,0,0,1,1.128,3.208,2.746,2.746,0,0,1-2.688,1.973Zm7.529-7.3a7.875,7.875,0,0,1-4.319-1.552,17.259,17.259,0,0,1-5.037-7c-.146-.327-.3-.65-.445-.976,2.75,3.054,6.893,6.6,10.2,7.41,1.105.266,2.1.554,3.048.859a4.322,4.322,0,0,1-3.2,1.259Z" transform="translate(18 322)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Electronics" transform="translate(0 119)">
+            <text id="Electronics-2" data-name="Electronics" class="cls-6" transform="translate(58 465)"><tspan x="-35.248" y="0">Electronics</tspan></text>
+            <g id="icon-4" data-name="icon" transform="translate(-173 239)">
+              <g class="cls-49" transform="matrix(1, 0, 0, 1, 194, -282)">
+                <circle id="Ellipse_6-7" data-name="Ellipse 6" class="cls-11" cx="32.5" cy="32.5" r="32.5" transform="translate(4 422)"/>
+              </g>
+              <g class="cls-48" transform="matrix(1, 0, 0, 1, 194, -282)">
+                <path id="_004-furniture-and-household-2" data-name="004-furniture-and-household" class="cls-8" d="M21.7,19.118V16.481H35.907V0H5.093V16.481H19.3v2.637H0V30.271H5.845v2.993h2.4V30.271h24.5v2.993h2.4V30.271H41V19.118Zm-6.907,6.075H11.465v-2.4h3.329Zm14.741,0H26.206v-2.4h3.329Zm0,0" transform="translate(16 436)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Furniture" transform="translate(0 238)">
+            <text id="Furniture-2" data-name="Furniture" class="cls-6" transform="translate(58 465)"><tspan x="-29.89" y="0">Furniture</tspan></text>
+            <g id="icon-5" data-name="icon" transform="translate(-173 239)">
+              <g class="cls-47" transform="matrix(1, 0, 0, 1, 194, -401)">
+                <circle id="Ellipse_6-8" data-name="Ellipse 6" class="cls-12" cx="32.5" cy="32.5" r="32.5" transform="translate(4 541)"/>
+              </g>
+              <g id="_002-armchair-silhouette" data-name="002-armchair-silhouette" transform="translate(210.928 150.617)">
+                <g id="Group_127" data-name="Group 127" transform="translate(0.58)">
+                  <g id="Group_126" data-name="Group 126">
+                    <g class="cls-46" transform="matrix(1, 0, 0, 1, -17.51, -551.62)">
+                      <path id="Path_67-2" data-name="Path 67" class="cls-8" d="M35.5,22.577a6.5,6.5,0,0,0-6.5,6.5v1.187a26.968,26.968,0,0,0-8.934-1.187,26.972,26.972,0,0,0-8.934,1.187V29.074a6.5,6.5,0,0,0-6.5-6.5,4.061,4.061,0,0,0-1.56,7.811,1.214,1.214,0,0,1,.748,1.123l.812,3.249a5.693,5.693,0,0,0,5.04,5.646,1.981,1.981,0,1,0,1.77.037H28.7a1.979,1.979,0,1,0,1.769-.037A5.693,5.693,0,0,0,35.5,34.76l.812-3.249a1.216,1.216,0,0,1,.748-1.123A4.061,4.061,0,0,0,35.5,22.577Z" transform="translate(16.93 547.38)"/>
+                    </g>
+                    <g class="cls-45" transform="matrix(1, 0, 0, 1, -17.51, -551.62)">
+                      <path id="Path_68-2" data-name="Path 68" class="cls-8" d="M15.062,22.935a37.432,37.432,0,0,1,6.7-.538,37.431,37.431,0,0,1,6.7.538,8.959,8.959,0,0,1,5.483-6.417V12.183a12.183,12.183,0,0,0-24.366,0v4.336A8.96,8.96,0,0,1,15.062,22.935Z" transform="translate(15.24 551.62)"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Home" transform="translate(0 357)">
+            <text id="Home-2" data-name="Home" class="cls-6" transform="translate(58 465)"><tspan x="-20.101" y="0">Home</tspan></text>
+            <g id="icon-6" data-name="icon" transform="translate(-173 239)">
+              <g class="cls-44" transform="matrix(1, 0, 0, 1, 194, -520)">
+                <circle id="Ellipse_6-9" data-name="Ellipse 6" class="cls-13" cx="32.5" cy="32.5" r="32.5" transform="translate(4 660)"/>
+              </g>
+              <g class="cls-43" transform="matrix(1, 0, 0, 1, 194, -520)">
+                <path id="Union_6-2" data-name="Union 6" class="cls-8" d="M195.594-1304.308a1.1,1.1,0,0,1-1.1-1.1v-9.339h-5.428v9.339a1.1,1.1,0,0,1-1.1,1.1h-9.235a1.1,1.1,0,0,1-1.1-1.1v-15.382h-2.691a1.912,1.912,0,0,1-1.8-1.229,1.912,1.912,0,0,1,.5-2.119l16.848-15.352a1.916,1.916,0,0,1,2.594,0l16.848,15.351a1.914,1.914,0,0,1,.5,2.12,1.913,1.913,0,0,1-1.8,1.229h-2.692v15.382a1.1,1.1,0,0,1-1.1,1.1Zm2.633-33.488h7.417a1.105,1.105,0,0,1,1.1,1.1v6.644Z" transform="translate(-156 2013.34)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Stationary" transform="translate(0 476)">
+            <text id="Stationary-2" data-name="Stationary" class="cls-6" transform="translate(58 465)"><tspan x="-33.149" y="0">Stationary</tspan></text>
+            <g id="icon-7" data-name="icon" transform="translate(-173 239)">
+              <g class="cls-42" transform="matrix(1, 0, 0, 1, 194, -639)">
+                <circle id="Ellipse_6-10" data-name="Ellipse 6" class="cls-14" cx="32.5" cy="32.5" r="32.5" transform="translate(4 779)"/>
+              </g>
+              <g class="cls-41" transform="matrix(1, 0, 0, 1, 194, -639)">
+                <path id="Union_7-2" data-name="Union 7" class="cls-8" d="M-28.081-1572.044a3.506,3.506,0,0,1-3.474-3.066l-1.367-11.093H-8.689l-.875,7h1.6A4.673,4.673,0,0,0-3.3-1583.87a4.674,4.674,0,0,0-4.668-4.668H-33.215l-.419-3.356a1.171,1.171,0,0,1,.284-.917,1.165,1.165,0,0,1,.875-.394H-9.135a1.167,1.167,0,0,1,1.158,1.311l-.129,1.022h.138a7.01,7.01,0,0,1,7,7,7.077,7.077,0,0,1-7,7.08H-9.856l-.2,1.679a3.506,3.506,0,0,1-3.474,3.066Zm13.111-23.5v-4.537c.745-.588,1.474-1.129,2.149-1.558a9.1,9.1,0,0,1,2.82-1.294,5.788,5.788,0,0,0,1.009,1.417,5.826,5.826,0,0,0,1.41,1.005,9.08,9.08,0,0,1-1.293,2.817c-.43.674-.97,1.4-1.558,2.149Zm-9.337,0v-7h7v7Zm-6.6,0-7.062-7.061a1.167,1.167,0,0,1,0-1.65l2.617-2.617a1.168,1.168,0,0,1,1.651,0l7.061,7.061v4.267Zm23.564-7.626h0a3.51,3.51,0,0,1,0-4.952,3.5,3.5,0,0,1,.973-.686l4.494-1.264a1.163,1.163,0,0,1,1.138.3,1.168,1.168,0,0,1,.3,1.138l-1.194,4.307a3.512,3.512,0,0,1-.753,1.156,3.49,3.49,0,0,1-2.477,1.024A3.5,3.5,0,0,1-7.343-1603.166Zm-16.963-1.71v-1.167a1.168,1.168,0,0,1,.123-.522l2.334-4.72a1.216,1.216,0,0,1,2.088,0l2.334,4.72a1.168,1.168,0,0,1,.123.522v1.167Z" transform="translate(55.62 2402.76)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Page_Title" data-name="Page Title" class="cls-15" transform="translate(25 90)"><tspan x="0" y="0">All Categories</tspan></text>
+    <g id="Repeat_Grid_6" data-name="Repeat Grid 6" class="cls-16" transform="translate(118.5 122)">
+      <g transform="translate(-118.5 -122)">
+        <g id="Mens_Apparel" data-name="Mens Apparel" transform="translate(-11.5 -10)">
+          <text id="Page_Title-2" data-name="Page Title" class="cls-17" transform="translate(130 141)"><tspan x="0" y="0">MEN’S APPAREL</tspan></text>
+          <g id="tshirts" transform="translate(130 154)">
+            <g class="cls-40" transform="matrix(1, 0, 0, 1, -97.5, -86)">
+              <path id="Rectangle_33-17" data-name="Rectangle 33" class="cls-18" d="M10,0H226.5a10,10,0,0,1,10,10V44a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(97.5 86)"/>
+            </g>
+            <text id="T-shirts" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">T-shirts</tspan></text>
+            <g id="Group_36" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="shirts" transform="translate(130 198)">
+            <g class="cls-39" transform="matrix(1, 0, 0, 1, -97.5, -130)">
+              <rect id="Rectangle_33-18" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 130)"/>
+            </g>
+            <text id="Shirts-2" data-name="Shirts" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Shirts</tspan></text>
+            <g id="Group_36-2" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-2" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-2" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="pants" transform="translate(130 242)">
+            <g class="cls-38" transform="matrix(1, 0, 0, 1, -97.5, -174)">
+              <rect id="Rectangle_33-19" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 174)"/>
+            </g>
+            <text id="Pants_Jeans" data-name="Pants &amp; Jeans" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Pants &amp; Jeans</tspan></text>
+            <g id="Group_36-3" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-3" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-3" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="socks" transform="translate(130 286)">
+            <g class="cls-37" transform="matrix(1, 0, 0, 1, -97.5, -218)">
+              <rect id="Rectangle_33-20" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 218)"/>
+            </g>
+            <text id="Socks_Ties" data-name="Socks &amp; Ties" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Socks &amp; Ties</tspan></text>
+            <g id="Group_36-4" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-4" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-4" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="underwear" transform="translate(130 330)">
+            <g class="cls-36" transform="matrix(1, 0, 0, 1, -97.5, -262)">
+              <rect id="Rectangle_33-21" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 262)"/>
+            </g>
+            <text id="Underwear-2" data-name="Underwear" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Underwear</tspan></text>
+            <g id="Group_36-5" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-5" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-5" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="jackets" transform="translate(130 374)">
+            <g class="cls-35" transform="matrix(1, 0, 0, 1, -97.5, -306)">
+              <rect id="Rectangle_33-22" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 306)"/>
+            </g>
+            <text id="Jackets-2" data-name="Jackets" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Jackets</tspan></text>
+            <g id="Group_36-6" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-6" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-6" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="coats" transform="translate(130 418)">
+            <g class="cls-34" transform="matrix(1, 0, 0, 1, -97.5, -350)">
+              <rect id="Rectangle_33-23" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 350)"/>
+            </g>
+            <text id="Coats-2" data-name="Coats" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Coats</tspan></text>
+            <g id="Group_36-7" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-7" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-7" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="swaters" transform="translate(130 462)">
+            <g class="cls-33" transform="matrix(1, 0, 0, 1, -97.5, -394)">
+              <path id="Rectangle_33-24" data-name="Rectangle 33" class="cls-18" d="M0,0H236.5a0,0,0,0,1,0,0V34a10,10,0,0,1-10,10H10A10,10,0,0,1,0,34V0A0,0,0,0,1,0,0Z" transform="translate(97.5 394)"/>
+            </g>
+            <text id="Sweaters" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Sweaters</tspan></text>
+            <g id="Group_36-8" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-8" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-8" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Women_Apparel" data-name="Women Apparel" transform="translate(-11.5 421)">
+          <text id="Page_Title-3" data-name="Page Title" class="cls-17" transform="translate(130 141)"><tspan x="0" y="0">WOMEN APPAREL</tspan></text>
+          <g id="officewear" transform="translate(130 154)">
+            <g class="cls-32" transform="matrix(1, 0, 0, 1, -97.5, -517)">
+              <path id="Rectangle_33-25" data-name="Rectangle 33" class="cls-18" d="M10,0H226.5a10,10,0,0,1,10,10V44a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(97.5 517)"/>
+            </g>
+            <text id="Officewear-2" data-name="Officewear" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Officewear</tspan></text>
+            <g id="Group_36-9" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-9" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-9" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="blouse" transform="translate(130 198)">
+            <g class="cls-31" transform="matrix(1, 0, 0, 1, -97.5, -561)">
+              <rect id="Rectangle_33-26" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 561)"/>
+            </g>
+            <text id="Blouse_T-Shirts" data-name="Blouse &amp; T-Shirts" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Blouse &amp; T-Shirts</tspan></text>
+            <g id="Group_36-10" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-10" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-10" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="pants-2" data-name="pants" transform="translate(130 242)">
+            <g class="cls-30" transform="matrix(1, 0, 0, 1, -97.5, -605)">
+              <rect id="Rectangle_33-27" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 605)"/>
+            </g>
+            <text id="Pants_Jeans-2" data-name="Pants &amp; Jeans" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Pants &amp; Jeans</tspan></text>
+            <g id="Group_36-11" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-11" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-11" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="dresses" transform="translate(130 286)">
+            <g class="cls-29" transform="matrix(1, 0, 0, 1, -97.5, -649)">
+              <rect id="Rectangle_33-28" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 649)"/>
+            </g>
+            <text id="Dresses-2" data-name="Dresses" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Dresses</tspan></text>
+            <g id="Group_36-12" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-12" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-12" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="lingerie" transform="translate(130 330)">
+            <g class="cls-28" transform="matrix(1, 0, 0, 1, -97.5, -693)">
+              <rect id="Rectangle_33-29" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 693)"/>
+            </g>
+            <text id="Lingerie-2" data-name="Lingerie" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Lingerie</tspan></text>
+            <g id="Group_36-13" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-13" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-13" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="jackets-3" data-name="jackets" transform="translate(130 374)">
+            <g class="cls-27" transform="matrix(1, 0, 0, 1, -97.5, -737)">
+              <rect id="Rectangle_33-30" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 737)"/>
+            </g>
+            <text id="Jackets-4" data-name="Jackets" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Jackets</tspan></text>
+            <g id="Group_36-14" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-14" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-14" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="coats-3" data-name="coats" transform="translate(130 418)">
+            <g class="cls-26" transform="matrix(1, 0, 0, 1, -97.5, -781)">
+              <rect id="Rectangle_33-31" data-name="Rectangle 33" class="cls-18" width="236.5" height="44" transform="translate(97.5 781)"/>
+            </g>
+            <text id="Coats-4" data-name="Coats" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Coats</tspan></text>
+            <g id="Group_36-15" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-15" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-15" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+          <g id="ssweaters" transform="translate(130 462)">
+            <g class="cls-25" transform="matrix(1, 0, 0, 1, -97.5, -825)">
+              <path id="Rectangle_33-32" data-name="Rectangle 33" class="cls-18" d="M0,0H236.5a0,0,0,0,1,0,0V34a10,10,0,0,1-10,10H10A10,10,0,0,1,0,34V0A0,0,0,0,1,0,0Z" transform="translate(97.5 825)"/>
+            </g>
+            <text id="Sweaters-2" data-name="Sweaters" class="cls-19" transform="translate(15 27)"><tspan x="0" y="0">Sweaters</tspan></text>
+            <g id="Group_36-16" data-name="Group 36" transform="translate(203.5 13)">
+              <circle id="Ellipse_11-16" data-name="Ellipse 11" class="cls-20" cx="9" cy="9" r="9"/>
+              <g id="Union_1-16" data-name="Union 1" class="cls-21" transform="translate(3.757 9) rotate(-45)">
+                <path class="cls-23" d="M 5.000400066375732 5.50029993057251 L 0.9998999834060669 5.50029993057251 C 0.7242499589920044 5.50029993057251 0.4999999701976776 5.276050090789795 0.4999999701976776 5.000400066375732 C 0.4999999701976776 4.724259853363037 0.7242499589920044 4.499599933624268 0.9998999834060669 4.499599933624268 L 3.999599933624268 4.499599933624268 L 4.499599933624268 4.499599933624268 L 4.499599933624268 3.999599933624268 L 4.499599933624268 0.9998999834060669 C 4.499599933624268 0.7242499589920044 4.724259853363037 0.4999999701976776 5.000400066375732 0.4999999701976776 C 5.276050090789795 0.4999999701976776 5.50029993057251 0.7242499589920044 5.50029993057251 0.9998999834060669 L 5.50029993057251 5.000400066375732 C 5.50029993057251 5.276050090789795 5.276050090789795 5.50029993057251 5.000400066375732 5.50029993057251 Z"/>
+                <path class="cls-24" d="M 5.000400066375732 5.00029993057251 L 5.00029993057251 5.000400066375732 L 4.999599933624268 0.9998999834060669 L 4.999599933624268 4.999599933624268 L 0.9998999834060669 5.00029993057251 L 5.000400066375732 5.00029993057251 M 5.000400066375732 6.00029993057251 L 0.9998999834060669 6.00029993057251 C 0.4472999572753906 6.00029993057251 -3.471374654395731e-08 5.55210018157959 -3.471374654395731e-08 5.000400066375732 C -3.471374654395731e-08 4.447800159454346 0.4472999572753906 3.999599933624268 0.9998999834060669 3.999599933624268 L 3.999599933624268 3.999599933624268 L 3.999599933624268 0.9998999834060669 C 3.999599933624268 0.4472999572753906 4.447800159454346 -3.471374654395731e-08 5.000400066375732 -3.471374654395731e-08 C 5.55210018157959 -3.471374654395731e-08 6.00029993057251 0.4472999572753906 6.00029993057251 0.9998999834060669 L 6.00029993057251 5.000400066375732 C 6.00029993057251 5.55210018157959 5.55210018157959 6.00029993057251 5.000400066375732 6.00029993057251 Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <line id="divider" class="cls-22" x2="236" transform="translate(119 527)"/>
+  </g>
+</svg>

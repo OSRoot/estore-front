@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="417" height="89" viewBox="0 0 417 89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2, .cls-7 {
+        fill: #515c6f;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 12px;
+        letter-spacing: 0.07em;
+      }
+
+      .cls-2, .cls-3, .cls-7 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-2 {
+        opacity: 0.5;
+      }
+
+      .cls-3 {
+        fill: #ff6969;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: url(#pattern);
+      }
+
+      .cls-7 {
+        font-size: 15px;
+      }
+
+      .cls-8 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_33-2);
+      }
+
+      .cls-10 {
+        filter: url(#Rectangle_33);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="417" height="59"/>
+    </clipPath>
+    <filter id="Rectangle_33" x="-22.5" y="15.5" width="230" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 87 87">
+      <image width="87" height="87" xlink:href="Recent-image.png"/>
+    </pattern>
+    <filter id="Rectangle_33-2" x="172.5" y="15.5" width="267" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 77 77">
+      <image width="77" height="77" xlink:href="Recent-image2.png"/>
+    </pattern>
+  </defs>
+  <g id="Recent" transform="translate(-25 -170)">
+    <g id="title">
+      <text id="Page_Title" data-name="Page Title" class="cls-2" transform="translate(25 183)"><tspan x="0" y="0">RECENTLY VIEWED</tspan></text>
+      <text id="Page_Title-2" data-name="Page Title" class="cls-3" transform="translate(355 183)"><tspan x="-37.426" y="0">CLEAR</tspan></text>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" class="cls-4" transform="translate(25 200)">
+      <g transform="translate(-25 -200)">
+        <g id="item" transform="translate(5 -193)">
+          <g class="cls-10" transform="matrix(1, 0, 0, 1, 20, 363)">
+            <rect id="Rectangle_33-3" data-name="Rectangle 33" class="cls-5" width="185" height="59" rx="10" transform="translate(0 30)"/>
+          </g>
+          <g id="Group_13" data-name="Group 13" transform="translate(0 -109)">
+            <rect id="scarf_PNG48" class="cls-6" width="39.509" height="39.509" transform="translate(28.338 510.769)"/>
+          </g>
+          <text id="_11.00" data-name="$11.00" class="cls-7" transform="translate(77 437)"><tspan x="0" y="0">$11.00</tspan></text>
+          <text id="Red_Cotton_Scarf" data-name="Red Cotton Scarf" class="cls-7" transform="translate(77 417)"><tspan x="0" y="0">Red Cotton Scarf</tspan></text>
+        </g>
+        <g id="item-2" data-name="item" transform="translate(200 -193)">
+          <g class="cls-9" transform="matrix(1, 0, 0, 1, -175, 363)">
+            <rect id="Rectangle_33-4" data-name="Rectangle 33" class="cls-5" width="222" height="59" rx="10" transform="translate(195 30)"/>
+          </g>
+          <text id="_20.58" data-name="$20.58" class="cls-7" transform="translate(77 437)"><tspan x="0" y="0">$20.58</tspan></text>
+          <text id="Bottle_Green_Backpack" data-name="Bottle Green Backpack" class="cls-7" transform="translate(77 417)"><tspan x="0" y="0">Bottle Green Backpack</tspan></text>
+          <rect id="backpack_PNG6354" class="cls-8" width="36" height="36" transform="translate(32 405)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="31" viewBox="0 0 230 31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #727c8e;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-3 {
+        fill: #ff6969;
+      }
+    </style>
+  </defs>
+  <g id="toggle" transform="translate(-80 -391)">
+    <rect id="Rectangle_25" data-name="Rectangle 25" class="cls-1" width="78" height="31" rx="15.5" transform="translate(232 391)"/>
+    <text id="Product" class="cls-2" transform="translate(80 412)"><tspan x="0" y="0">Product</tspan></text>
+    <text id="Details" class="cls-2" transform="translate(188 412)"><tspan x="-22.354" y="0">Details</tspan></text>
+    <text id="Reviews" class="cls-3" transform="translate(298 412)"><tspan x="-52.244" y="0">Reviews</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="303.5" height="145" viewBox="0 0 303.5 145">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #515c6f;
+      }
+
+      .cls-1 {
+        font-size: 30px;
+      }
+
+      .cls-1, .cls-5 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: url(#pattern);
+      }
+
+      .cls-3 {
+        font-size: 15px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: rgba(114,124,142,0.3);
+      }
+
+      .cls-5 {
+        fill: #727c8e;
+        font-size: 12px;
+        letter-spacing: 0.06em;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        filter: url(#photo);
+      }
+    </style>
+    <pattern id="pattern" width="1" height="1" viewBox="39.933 5.533 64.042 64.042">
+      <image preserveAspectRatio="xMidYMid slice" width="149.857" height="100" xlink:href="asset3-image.png"/>
+    </pattern>
+    <filter id="photo" x="0" y="0" width="145" height="145" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(22.5 14.5)">
+    <text id="Page_Title" data-name="Page Title" class="cls-1" transform="translate(120 29)"><tspan x="0" y="0">Jane Doe</tspan></text>
+    <g id="photo-2" data-name="photo" transform="translate(-25 -506)">
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, 2.5, 491.5)">
+        <rect id="photo-3" data-name="photo" class="cls-2" width="100" height="100" rx="50" transform="translate(22.5 14.5)"/>
+      </g>
+    </g>
+    <text id="janedoe123_email.com" data-name="janedoe123@email.com" class="cls-3" transform="translate(121 55)"><tspan x="0" y="0">janedoe123@email.com</tspan></text>
+    <g id="Button" transform="translate(-18 -330)">
+      <g id="Rectangle_1" data-name="Rectangle 1" class="cls-4" transform="translate(138 400)">
+        <rect class="cls-6" width="121" height="30" rx="15"/>
+        <rect class="cls-7" x="0.5" y="0.5" width="120" height="29" rx="14.5"/>
+      </g>
+      <text id="EDIT_PROFILE" data-name="EDIT PROFILE" class="cls-5" transform="translate(198.456 419.342)"><tspan x="-42.025" y="0">EDIT PROFILE</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="131" viewBox="0 0 420 131">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #ff6969;
+      }
+
+      .cls-3, .cls-6 {
+        font-size: 12px;
+      }
+
+      .cls-3, .cls-7 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.06em;
+      }
+
+      .cls-4 {
+        stroke: #ff6969;
+      }
+
+      .cls-5, .cls-7 {
+        fill: #515c6f;
+      }
+
+      .cls-5 {
+        font-size: 10px;
+        letter-spacing: 0.07em;
+        opacity: 0.5;
+      }
+
+      .cls-5, .cls-6 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-6 {
+        fill: #727c8e;
+      }
+
+      .cls-7 {
+        font-size: 20px;
+      }
+
+      .cls-8 {
+        filter: url(#base-2);
+      }
+
+      .cls-9 {
+        filter: url(#base);
+      }
+    </style>
+    <filter id="base" x="0" y="0" width="420" height="131" filterUnits="userSpaceOnUse">
+      <feOffset dy="-8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#e7eaf0" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="base-2" x="197.5" y="40.5" width="195" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#ff6969" flood-opacity="0.396"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="place_order" data-name="place order" transform="translate(22.5 -550.5)">
+    <g class="cls-9" transform="matrix(1, 0, 0, 1, -22.5, 550.5)">
+      <rect id="base-3" data-name="base" class="cls-1" width="375" height="86" transform="translate(22.5 30.5)"/>
+    </g>
+    <g id="button" transform="translate(170)">
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, -192.5, 550.5)">
+        <rect id="base-4" data-name="base" class="cls-2" width="165" height="46" rx="23" transform="translate(212.5 50.5)"/>
+      </g>
+      <text id="PLACE_ORDER-2" data-name="PLACE ORDER" class="cls-3" transform="translate(87 629)"><tspan x="-43.206" y="0">PLACE ORDER</tspan></text>
+      <g id="icon" transform="translate(13.734 219.063)">
+        <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="28.797" height="29.62" rx="14.399" transform="translate(134.266 389.937)"/>
+        <path id="Path_11" data-name="Path 11" class="cls-4" d="M26.582,16.758v0a.82.82,0,0,0-.252-.592h0l-4.937-4.937,0,0a.822.822,0,1,0-1.105,1.218L24.6,16.758,20.23,21.125h0a.823.823,0,0,0,1.163,1.163h0l4.937-4.937h0a.82.82,0,0,0,.252-.592Z" transform="translate(125.785 387.987)"/>
+      </g>
+    </g>
+    <text id="TOTAL" class="cls-5" transform="translate(25 606)"><tspan x="0" y="0">TOTAL</tspan></text>
+    <text id="Free_Domestic_Shipping" data-name="Free Domestic Shipping" class="cls-6" transform="translate(25 649)"><tspan x="0" y="0">Free Domestic Shipping</tspan></text>
+    <text id="_11.00" data-name="$11.00" class="cls-7" transform="translate(25 631)"><tspan x="0" y="0">$11.00</tspan></text>
+  </g>
+</svg>

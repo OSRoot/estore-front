@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400.997" height="65.823" viewBox="0 0 400.997 65.823">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #727c8e;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 15px;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-6 {
+        fill: #ff6969;
+      }
+
+      .cls-7 {
+        fill: #515c6f;
+        font-size: 12px;
+        letter-spacing: 0.07em;
+        opacity: 0.5;
+      }
+
+      .cls-8 {
+        filter: url(#Rectangle_23);
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_22);
+      }
+
+      .cls-10 {
+        filter: url(#Rectangle_10);
+      }
+
+      .cls-11 {
+        filter: url(#Rectangle_5);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="400.997" height="65.823"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="400.997" height="38.823"/>
+    </clipPath>
+    <filter id="Rectangle_5" x="-15" y="20" width="101.82" height="68.823" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.063"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10" x="150.177" y="20" width="101.82" height="68.823" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.063"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_22" x="232.177" y="20" width="101.82" height="68.823" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.063"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_23" x="314.177" y="20" width="101.82" height="68.823" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#727c8e" flood-opacity="0.063"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="select_size" data-name="select size" class="cls-2">
+    <g id="sizes" transform="translate(-20 -398)">
+      <g id="Repeat_Grid_20" data-name="Repeat Grid 20" class="cls-3" transform="translate(20 425)">
+        <g transform="translate(-20 -425)">
+          <g id="_4" data-name="4">
+            <g class="cls-11" transform="matrix(1, 0, 0, 1, 20, 398)">
+              <rect id="Rectangle_5-2" data-name="Rectangle 5" class="cls-4" width="71.82" height="38.823" rx="10" transform="translate(0 27)"/>
+            </g>
+            <text id="_4.5" data-name="4.5" class="cls-5" transform="translate(56 450)"><tspan x="-10.312" y="0">4.5</tspan></text>
+          </g>
+          <g id="_5" data-name="5">
+            <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-4" width="71.82" height="38.823" rx="10" transform="translate(102.471 425)"/>
+            <text id="_5.0" data-name="5.0" class="cls-6" transform="translate(138 450)"><tspan x="-10.312" y="0">5.0</tspan></text>
+          </g>
+          <g id="_6" data-name="6">
+            <g class="cls-10" transform="matrix(1, 0, 0, 1, 20, 398)">
+              <rect id="Rectangle_10-2" data-name="Rectangle 10" class="cls-4" width="71.82" height="38.823" rx="10" transform="translate(165.18 27)"/>
+            </g>
+            <text id="_6.5" data-name="6.5" class="cls-5" transform="translate(221 450)"><tspan x="-10.312" y="0">6.5</tspan></text>
+          </g>
+          <g id="_7" data-name="7">
+            <g class="cls-9" transform="matrix(1, 0, 0, 1, 20, 398)">
+              <rect id="Rectangle_22-2" data-name="Rectangle 22" class="cls-4" width="71.82" height="38.823" rx="10" transform="translate(247.18 27)"/>
+            </g>
+            <text id="_7.0" data-name="7.0" class="cls-5" transform="translate(303 450)"><tspan x="-10.312" y="0">7.0</tspan></text>
+          </g>
+          <g id="_8" data-name="8">
+            <g class="cls-8" transform="matrix(1, 0, 0, 1, 20, 398)">
+              <rect id="Rectangle_23-2" data-name="Rectangle 23" class="cls-4" width="71.82" height="38.823" rx="10" transform="translate(329.18 27)"/>
+            </g>
+            <text id="_8.0" data-name="8.0" class="cls-5" transform="translate(385 450)"><tspan x="-10.312" y="0">8.0</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Page_Title" data-name="Page Title" class="cls-7" transform="translate(0 10)"><tspan x="0" y="0">SELECT SIZE (US)</tspan></text>
+  </g>
+</svg>

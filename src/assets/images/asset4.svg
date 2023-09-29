@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="370" height="222" viewBox="0 0 370 222">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #515c6f;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-2 {
+        font-size: 15px;
+      }
+
+      .cls-3 {
+        font-size: 12px;
+        letter-spacing: 0.07em;
+        opacity: 0.5;
+      }
+
+      .cls-4, .cls-5, .cls-7 {
+        fill: #727c8e;
+      }
+
+      .cls-4, .cls-7 {
+        stroke: #727c8e;
+      }
+
+      .cls-4 {
+        stroke-width: 0.2px;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #ff6969;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        stroke-width: 0.6px;
+        opacity: 0.998;
+      }
+
+      .cls-8 {
+        filter: url(#Rectangle_33-2);
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_33);
+      }
+    </style>
+    <filter id="Rectangle_33" x="0" y="0" width="370" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-2" x="0" y="118" width="370" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#e7eaf0"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(22.5 14.5)">
+    <g id="Email" transform="translate(-20 -393)">
+      <g class="cls-9" transform="matrix(1, 0, 0, 1, -2.5, 378.5)">
+        <path id="Rectangle_33-3" data-name="Rectangle 33" class="cls-1" d="M10,0H315a10,10,0,0,1,10,10V59a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(22.5 14.5)"/>
+      </g>
+      <text id="janedoe123_email.com" data-name="janedoe123@email.com" class="cls-2" transform="translate(77 437)"><tspan x="0" y="0">janedoe123@email.com</tspan></text>
+      <text id="EMAIL-2" data-name="EMAIL" class="cls-3" transform="translate(77 417)"><tspan x="0" y="0">EMAIL</tspan></text>
+      <g id="_001-mail" data-name="001-mail" transform="translate(38 349)">
+        <g id="Group_114" data-name="Group 114" transform="translate(0 68)">
+          <g id="Group_113" data-name="Group 113" transform="translate(0 0)">
+            <path id="Path_64" data-name="Path 64" class="cls-4" d="M16.83,68H2.234A2.237,2.237,0,0,0,0,70.234v9.532A2.237,2.237,0,0,0,2.234,82h14.6a2.237,2.237,0,0,0,2.234-2.234V70.234A2.237,2.237,0,0,0,16.83,68Zm.745,11.766a.746.746,0,0,1-.745.745H2.234a.746.746,0,0,1-.745-.745V70.234a.746.746,0,0,1,.745-.745h14.6a.746.746,0,0,1,.745.745Z" transform="translate(0 -68)"/>
+          </g>
+        </g>
+        <g id="Group_116" data-name="Group 116" transform="translate(0.727 68.929)">
+          <g id="Group_115" data-name="Group 115" transform="translate(0 0)">
+            <path id="Path_65" data-name="Path 65" class="cls-5" d="M36.243,92.937l-7.916,5.888-7.916-5.888-.889,1.2,8.805,6.549,8.805-6.549Z" transform="translate(-19.522 -92.937)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Username" transform="translate(-20 -334)">
+      <rect id="Rectangle_33-4" data-name="Rectangle 33" class="cls-1" width="325" height="59" transform="translate(20 393)"/>
+      <text id="janedoe12345" class="cls-2" transform="translate(77 437)"><tspan x="0" y="0">janedoe12345</tspan></text>
+      <text id="USERNAME-2" data-name="USERNAME" class="cls-3" transform="translate(77 417)"><tspan x="0" y="0">USERNAME</tspan></text>
+      <line id="Line_22" data-name="Line 22" class="cls-6" y2="15" transform="translate(174.5 424.5)"/>
+      <path id="Profile" class="cls-7" d="M18.586,14.377a12.854,12.854,0,0,0-3.135-1.884,17.052,17.052,0,0,1-2.408-1.345,8.456,8.456,0,0,0,2.1-5.084A7.99,7.99,0,0,0,14.526,2.4C13.974,1.3,12.741,0,10,0S6.025,1.3,5.474,2.4a7.981,7.981,0,0,0-.613,3.669,8.449,8.449,0,0,0,2.1,5.084,16.968,16.968,0,0,1-2.409,1.345,12.863,12.863,0,0,0-3.135,1.884A6.148,6.148,0,0,0,0,18.308,1.667,1.667,0,0,0,1.666,20H18.333A1.667,1.667,0,0,0,20,18.307,6.15,6.15,0,0,0,18.586,14.377Zm.045,4.249a.417.417,0,0,1-.3.125H1.666a.417.417,0,0,1-.3-.125.422.422,0,0,1-.12-.3A4.991,4.991,0,0,1,2.3,15.261a12.7,12.7,0,0,1,2.811-1.65,13.709,13.709,0,0,0,2.708-1.555l.844-.8-.733-.9A7.234,7.234,0,0,1,6.111,6.065,6.91,6.91,0,0,1,6.59,2.959C7.163,1.825,8.309,1.25,10,1.25s2.837.575,3.41,1.708a6.914,6.914,0,0,1,.479,3.106,7.229,7.229,0,0,1-1.817,4.294l-.733.9.844.8a13.738,13.738,0,0,0,2.708,1.555,12.643,12.643,0,0,1,2.811,1.65,4.871,4.871,0,0,1,1.048,3.066A.417.417,0,0,1,18.63,18.626Z" transform="translate(37 412.5)"/>
+    </g>
+    <g id="Password" transform="translate(-20 -275)">
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, -2.5, 260.5)">
+        <path id="Rectangle_33-5" data-name="Rectangle 33" class="cls-1" d="M0,0H325a0,0,0,0,1,0,0V49a10,10,0,0,1-10,10H10A10,10,0,0,1,0,49V0A0,0,0,0,1,0,0Z" transform="translate(22.5 132.5)"/>
+      </g>
+      <text id="_" data-name="************************" class="cls-2" transform="translate(77 443)"><tspan x="0" y="0">************************</tspan></text>
+      <text id="PASSWORD-2" data-name="PASSWORD" class="cls-3" transform="translate(77 417)"><tspan x="0" y="0">PASSWORD</tspan></text>
+      <g id="_002-password" data-name="002-password" transform="translate(6 411)">
+        <g id="Group_118" data-name="Group 118" transform="translate(32)">
+          <g id="Group_117" data-name="Group 117">
+            <circle id="Ellipse_18" data-name="Ellipse 18" class="cls-5" cx="0.898" cy="0.898" r="0.898" transform="translate(13.603 13.954)"/>
+            <path id="Path_66" data-name="Path 66" class="cls-5" d="M50.391,15.555a.859.859,0,0,0,.859-.859v-3.18a3.441,3.441,0,0,0-3.437-3.437H46.78V5.047a5.157,5.157,0,0,0-10.312,0V8.078h-1.03A3.441,3.441,0,0,0,32,11.516v7.047A3.441,3.441,0,0,0,35.438,22H47.812a3.441,3.441,0,0,0,3.438-3.437.859.859,0,1,0-1.719,0,1.721,1.721,0,0,1-1.719,1.719H35.438a1.721,1.721,0,0,1-1.719-1.719V11.516A1.721,1.721,0,0,1,35.438,9.8H47.812a1.721,1.721,0,0,1,1.719,1.719V14.7A.859.859,0,0,0,50.391,15.555Zm-5.33-7.477H38.186V5.047a3.439,3.439,0,0,1,6.875,0Z" transform="translate(-32)"/>
+            <circle id="Ellipse_19" data-name="Ellipse 19" class="cls-5" cx="0.898" cy="0.898" r="0.898" transform="translate(7.144 13.954)"/>
+            <circle id="Ellipse_20" data-name="Ellipse 20" class="cls-5" cx="0.898" cy="0.898" r="0.898" transform="translate(3.936 13.954)"/>
+            <circle id="Ellipse_21" data-name="Ellipse 21" class="cls-5" cx="0.898" cy="0.898" r="0.898" transform="translate(10.352 13.954)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
